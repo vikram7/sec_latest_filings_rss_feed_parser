@@ -1,0 +1,2 @@
+defmodule CandyXml do
+end
