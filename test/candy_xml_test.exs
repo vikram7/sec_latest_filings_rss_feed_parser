@@ -1,21 +1,27 @@
 defmodule CandyXmlTest do
   use ExUnit.Case
   doctest CandyXml
-
-  # https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=10-K&company=&dateb=&owner=include&start=0&count=100&output=atom
-  # an <entry> has the following
-  # filing
-  # cik_id
-  # link
-  # rss_feed_id
-  # summary
-  # title
-  # updated_date
-
   import CandyXml
 
+  def entry_xml do
+    """
+    <entry>
+      <title>10-K - GARMIN LTD (0001121788) (Filer)</title>
+      <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243-index.htm"/>
+      <summary type="html">
+        &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001615774-16-004243 &lt;b&gt;Size:&lt;/b&gt; 8 MB
+      </summary>
+      <updated>2016-02-17T17:24:49-05:00</updated>
+      <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
+      <id>urn:tag:sec.gov,2008:accession-number=0001615774-16-004243</id>
+    </entry>
+    """
+  end
+
+  # https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=10-K&company=&dateb=&owner=include&start=0&count=100&output=atom
+
   test "parse!/1: parses RSS atom compliant XML" do
-    xml = File.read!("test/fixtures/filings_atom_feed.xml")
+    xml = Fiile.read!("test/fixtures/filings_atom_feed.xml")
     assert parse!(xml)
   end
 
@@ -24,31 +30,38 @@ defmodule CandyXmlTest do
     assert_raise RuntimeError, fn -> parse!(xml) end
   end
 
-  test "parses filing" do
-    # get the filing
+  test "has an entry" do
+    {:ok, feed} = File.read("test/fixtures/filings_atom_feed.xml") |> parse
+    assert feed.entry
   end
 
   test "parses cik_id" do
-    # get the cik_id
+    {:ok, feed} = entry_xml |> parse
+    assert.cik_id == '0001121788'
   end
 
   test "parses link" do
-    # get the link
+    {:ok, feed} = entry_xml |> parse
+    assert.link == "http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243-index.htm"
   end
 
   test "parses rss_feed_id" do
-    # get the rss_feed_id
+    {:ok, feed} = entry_xml |> parse
+    assert.rss_feed_id = "urn:tag:sec.gov,2008:accession-number=0001615774-16-004243"
   end
 
   test "parses summary" do
-    # get the summary
+    {:ok, feed} = entry_xml |> parse
+    assert.summary = "&lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001615774-16-004243 &lt;b&gt;Size:&lt;/b&gt; 8 MB"
   end
 
   test "parses title" do
-    # get the title
+    {:ok, feed} = entry_xml |> parse
+    assert.title = "10-K - GARMIN LTD (0001121788) (Filer)"
   end
 
   test "parses updated_date" do
-    # get the updated_date
+    {:ok, feed} = entry_xml |> parse
+    assert.updated_date = "2016-02-17T17:24:49-05:00"
   end
 end
