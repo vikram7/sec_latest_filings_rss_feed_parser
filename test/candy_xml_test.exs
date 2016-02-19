@@ -1,7 +1,7 @@
 defmodule CandyXmlTest do
   use ExUnit.Case
 
-  import CandyXml
+  #import CandyXml
 
   # test "parse!/1: parses RSS atom compliant XML" do
   #   xml = File.read!("test/fixtures/filings_atom_feed.xml")
