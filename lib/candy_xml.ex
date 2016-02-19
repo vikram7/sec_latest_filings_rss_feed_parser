@@ -20,13 +20,19 @@ defmodule CandyXml do
   end
 
   defp parse_link(xml) do
-    xml
-    |> xpath(~x"./link/text()"s)
+    link_prefix = xml
+    |> String.split("href=\"")
+    |> tl
+    |> hd
+    |> String.split(".htm")
+    |> hd
+    link_prefix <> ".htm"
   end
 
   defp parse_summary(xml) do
     xml
     |> xpath(~x"./summary/text()"s)
+    |> String.strip
   end
 
   defp parse_updated_date(xml) do

@@ -50,7 +50,7 @@ defmodule CandyXmlTest do
 
   test "parses summary" do
     entry = entry_xml |> parse
-    assert entry.summary == "&lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001615774-16-004243 &lt;b&gt;Size:&lt;/b&gt; 8 MB"
+    assert entry.summary == "<b>Filed:</b> 2016-02-17 <b>AccNo:</b> 0001615774-16-004243 <b>Size:</b> 8 MB"
   end
 
   test "parses title" do
