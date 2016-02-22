@@ -4,14 +4,18 @@ defmodule CandyXml.Feed do
   defstruct [:entry]
 
   def parse(xml) do
-    %CandyXml.Feed{
-      entry: parse_entry(xml)
+    %{
+      updated: parse_updated(xml),
+      entries: parse_feed(xml)
     }
   end
 
-  defp parse_entry(xml) do
-    xml
-    |> xpath(~x"//feed/entry")
-    |> CandyXml.Entry.parse
+  defp parse_feed(xml) do
+    xml |> xpath(~x"//entry") |> CandyXml.Entry.parse
+  end
+
+  defp parse_updated(feed) do
+    feed
+    |> xpath(~x"//entry/updated/text()")
   end
 end

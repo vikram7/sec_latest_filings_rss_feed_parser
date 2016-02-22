@@ -4,7 +4,7 @@ defmodule CandyXml.Entry do
   defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id]
 
   def parse(xml) do
-    %CandyXml.Entry{
+    %{
       title: parse_title(xml),
       link: parse_link(xml),
       summary: parse_summary(xml),
@@ -59,4 +59,3 @@ defmodule CandyXml.Entry do
     |> hd
   end
 end
-
