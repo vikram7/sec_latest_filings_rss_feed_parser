@@ -11,7 +11,7 @@ defmodule CandyXml.Feed do
   end
 
   defp parse_feed(xml) do
-    xml |> xpath(~x"//entry") |> CandyXml.Entry.parse
+    xml |> CandyXml.Entry.parse
   end
 
   defp parse_updated(feed) do

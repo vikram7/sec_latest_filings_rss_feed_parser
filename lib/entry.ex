@@ -16,7 +16,7 @@ defmodule CandyXml.Entry do
 
   defp parse_title(xml) do
     xml
-    |> xpath(~x"./title/text()"s)
+    |> xpath(~x"//entry/title/text()"s)
   end
 
   defp parse_link(xml) do
@@ -27,24 +27,24 @@ defmodule CandyXml.Entry do
 
   defp parse_summary(xml) do
     xml
-    |> xpath(~x"./summary/text()"s)
+    |> xpath(~x"//entry/summary/text()"s)
     |> String.strip
   end
 
   defp parse_updated_date(xml) do
     xml
-    |> xpath(~x"./updated/text()"s)
+    |> xpath(~x"//entry/updated/text()"s)
   end
 
   defp parse_rss_feed_id(xml) do
     xml
-    |> xpath(~x"./id/text()"s)
+    |> xpath(~x"//entry/id/text()"s)
   end
 
   defp parse_cik_id(xml) do
     regex = ~r/\(\d+\)/
     title = xml
-    |> xpath(~x"./title/text()"s)
+    |> xpath(~x"//entry/title/text()"s)
 
     Regex.run(regex, title, capture: :first)
     |> hd
