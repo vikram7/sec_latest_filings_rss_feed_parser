@@ -20,13 +20,9 @@ defmodule CandyXml.Entry do
   end
 
   defp parse_link(xml) do
-    link_prefix = xml
-    |> String.split("href=\"")
-    |> tl
+    regex = ~r/http(.*)index.htm/
+    Regex.run(regex, xml, capture: :first)
     |> hd
-    |> String.split(".htm")
-    |> hd
-    link_prefix <> ".htm"
   end
 
   defp parse_summary(xml) do
