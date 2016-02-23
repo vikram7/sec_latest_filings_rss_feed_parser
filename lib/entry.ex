@@ -65,8 +65,7 @@ defmodule CandyXml.Entry do
 
   defp parse_cik_id(xml) do
     regex = ~r/\(\d+\)/
-    title = xml
-    |> xpath(~x"//entry/title/text()"s)
+    title = parse_title(xml)
 
     Regex.run(regex, title, capture: :first)
     |> hd
