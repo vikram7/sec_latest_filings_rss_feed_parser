@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :candy_xml, key: :value
+#     config :sec_recent_filings_rss_feed_parser, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:candy_xml, :key)
+#     Application.get_env(:sec_recent_filings_rss_feed_parser, :key)
 #
 # Or configure a 3rd-party app:
 #
