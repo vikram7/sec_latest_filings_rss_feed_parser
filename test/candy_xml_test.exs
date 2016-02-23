@@ -1,11 +1,11 @@
-defmodule CandyXmlTest do
+defmodule SecLatestFilingsRssFeedParserTest do
   use ExUnit.Case
 
-  import CandyXml
+  import SecLatestFilingsRssFeedParser
 
 #  test "parse!/1: parses RSS atom compliant XML" do
 #    xml = File.read!("test/fixtures/filings_atom_feed.xml")
-#    assert CandyXml.parse!(xml)
+#    assert SecLatestFilingsRssFeedParser.parse!(xml)
 #  end
 
 #  test "parse!/1: raises error on invalid XML" do

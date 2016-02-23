@@ -1,4 +1,4 @@
-defmodule CandyXml.Entry do
+defmodule SecLatestFilingsRssFeedParser.Entry do
   import SweetXml
 
   defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id]

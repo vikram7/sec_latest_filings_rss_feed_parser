@@ -1,7 +1,7 @@
-defmodule CandyXmlEntryTest do
+defmodule SecLatestFilingsRssFeedParserEntryTest do
   use ExUnit.Case
 
-  import CandyXml.Entry
+  import SecLatestFilingsRssFeedParser.Entry
 
   def entry_xml do
     """
