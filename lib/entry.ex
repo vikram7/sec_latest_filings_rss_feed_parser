@@ -14,9 +14,16 @@ defmodule CandyXml.Entry do
     }
   end
 
+  defp extract_title(tuple) do
+    {_, _, title} = tuple
+    title |> hd
+  end
+
   defp parse_title(xml) do
-    xml
-    |> xpath(~x"//entry/title/text()"s)
+    embedded = xml
+    |> Floki.find("title")
+    |> hd
+    |> extract_title
   end
 
   defp parse_link(xml) do
