@@ -19,7 +19,7 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   end
 
   defp parse_title(xml) do
-    embedded = xml
+    xml
     |> Floki.find("title")
     |> hd
     |> extract_title
