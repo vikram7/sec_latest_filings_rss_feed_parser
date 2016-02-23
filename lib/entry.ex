@@ -4,7 +4,7 @@ defmodule CandyXml.Entry do
   defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id]
 
   def parse(xml) do
-    %CandyXml.Entry{
+    %{
       title: parse_title(xml),
       link: parse_link(xml),
       summary: parse_summary(xml),
@@ -16,39 +16,36 @@ defmodule CandyXml.Entry do
 
   defp parse_title(xml) do
     xml
-    |> xpath(~x"./title/text()"s)
+    |> xpath(~x"//entry/title/text()"s)
   end
 
   defp parse_link(xml) do
-    link_prefix = xml
-    |> String.split("href=\"")
-    |> tl
+    regex = ~r/http(.*)index.htm/
+    Regex.run(regex, xml, capture: :first)
     |> hd
-    |> String.split(".htm")
-    |> hd
-    link_prefix <> ".htm"
   end
 
   defp parse_summary(xml) do
     xml
-    |> xpath(~x"./summary/text()"s)
+    |> Floki.find("summary")
+    |> Floki.text
     |> String.strip
   end
 
   defp parse_updated_date(xml) do
     xml
-    |> xpath(~x"./updated/text()"s)
+    |> xpath(~x"//entry/updated/text()"s)
   end
 
   defp parse_rss_feed_id(xml) do
     xml
-    |> xpath(~x"./id/text()"s)
+    |> xpath(~x"//entry/id/text()"s)
   end
 
   defp parse_cik_id(xml) do
     regex = ~r/\(\d+\)/
     title = xml
-    |> xpath(~x"./title/text()"s)
+    |> xpath(~x"//entry/title/text()"s)
 
     Regex.run(regex, title, capture: :first)
     |> hd
@@ -59,4 +56,3 @@ defmodule CandyXml.Entry do
     |> hd
   end
 end
-
