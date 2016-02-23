@@ -11,11 +11,12 @@ defmodule CandyXml.Feed do
   end
 
   defp parse_feed(xml) do
-    xml |> CandyXml.Entry.parse
+    Floki.find(xml, "entry")
+    |> Enum.map(fn entry -> CandyXml.Entry.parse(Floki.raw_html(entry)) end)
   end
 
   defp parse_updated(feed) do
     feed
-    |> xpath(~x"//entry/updated/text()")
+    |> xpath(~x"//feed/updated/text()"s)
   end
 end

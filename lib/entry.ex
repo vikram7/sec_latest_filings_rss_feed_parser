@@ -27,7 +27,8 @@ defmodule CandyXml.Entry do
 
   defp parse_summary(xml) do
     xml
-    |> xpath(~x"//entry/summary/text()"s)
+    |> Floki.find("summary")
+    |> Floki.text
     |> String.strip
   end
 

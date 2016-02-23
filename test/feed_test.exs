@@ -43,7 +43,7 @@ defmodule CandyXmlFeedTest do
         %{
           title: "10-K - LENNOX INTERNATIONAL INC (0001069202) (Filer)",
           link: "http://www.sec.gov/Archives/edgar/data/1069202/000106920216000014/0001069202-16-000014-index.htm",
-          summary: "<b>Filed:</b> 2016-02-16 <b>AccNo:</b> 0001069202-16-000014 <b>Size:</b> 24 MB",
+          summary: "Filed: 2016-02-16 AccNo: 0001069202-16-000014 Size: 24 MB",
           updated_date: "2016-02-16T11:52:50-05:00",
           rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0001069202-16-000014",
           cik_id: "0001069202"
@@ -51,7 +51,7 @@ defmodule CandyXmlFeedTest do
         %{
           title: "10-K - CATERPILLAR FINANCIAL SERVICES CORP (0000764764) (Filer)",
           link: "http://www.sec.gov/Archives/edgar/data/764764/000076476416000111/0000764764-16-000111-index.htm",
-          summary: "",
+          summary: "Filed: 2016-02-16 AccNo: 0000764764-16-000111 Size: 20 MB",
           updated_date: "2016-02-16T11:24:30-05:00",
           rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0000764764-16-000111",
           cik_id: "0000764764"
