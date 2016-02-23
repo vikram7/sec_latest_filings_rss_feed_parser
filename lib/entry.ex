@@ -14,9 +14,16 @@ defmodule CandyXml.Entry do
     }
   end
 
+  defp extract_title(tuple) do
+    {_, _, title} = tuple
+    title |> hd
+  end
+
   defp parse_title(xml) do
-    xml
-    |> xpath(~x"//entry/title/text()"s)
+    embedded = xml
+    |> Floki.find("title")
+    |> hd
+    |> extract_title
   end
 
   defp parse_link(xml) do
@@ -32,20 +39,33 @@ defmodule CandyXml.Entry do
     |> String.strip
   end
 
+  defp extract_updated_date(tuple) do
+    {_, _, updated} = tuple
+    updated |> hd
+  end
+
   defp parse_updated_date(xml) do
     xml
-    |> xpath(~x"//entry/updated/text()"s)
+    |> Floki.find("updated")
+    |> hd
+    |> extract_updated_date
+  end
+
+  defp extract_rss_feed_id(tuple) do
+    {_, _, rss_feed_id} = tuple
+    rss_feed_id |> hd
   end
 
   defp parse_rss_feed_id(xml) do
     xml
-    |> xpath(~x"//entry/id/text()"s)
+    |> Floki.find("id")
+    |> hd
+    |> extract_rss_feed_id
   end
 
   defp parse_cik_id(xml) do
     regex = ~r/\(\d+\)/
-    title = xml
-    |> xpath(~x"//entry/title/text()"s)
+    title = parse_title(xml)
 
     Regex.run(regex, title, capture: :first)
     |> hd
