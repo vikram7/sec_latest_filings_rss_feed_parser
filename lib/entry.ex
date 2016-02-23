@@ -39,9 +39,16 @@ defmodule CandyXml.Entry do
     |> String.strip
   end
 
+  defp extract_updated(tuple) do
+    {_, _, updated} = tuple
+    updated |> hd
+  end
+
   defp parse_updated_date(xml) do
     xml
-    |> xpath(~x"//entry/updated/text()"s)
+    |> Floki.find("updated")
+    |> hd
+    |> extract_updated
   end
 
   defp parse_rss_feed_id(xml) do
