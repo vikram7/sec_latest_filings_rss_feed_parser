@@ -1,4 +1,4 @@
-defmodule CandyXml.Feed do
+defmodule SecLatestFilingsRssFeedParser.Feed do
   import SweetXml
 
   defstruct [:entry]
@@ -12,7 +12,7 @@ defmodule CandyXml.Feed do
 
   defp parse_feed(xml) do
     Floki.find(xml, "entry")
-    |> Enum.map(fn entry -> CandyXml.Entry.parse(Floki.raw_html(entry)) end)
+    |> Enum.map(fn entry -> SecLatestFilingsRssFeedParser.Entry.parse(Floki.raw_html(entry)) end)
   end
 
   defp extract_updated(tuple) do

@@ -1,4 +1,4 @@
-defmodule CandyXmlFeedTest do
+defmodule SecLatestFilingsRssFeedParserFeedTest do
   use ExUnit.Case
 
   def feed_xml do
@@ -36,7 +36,7 @@ defmodule CandyXmlFeedTest do
   end
 
   test "parse/1" do
-    feed = feed_xml |> CandyXml.Feed.parse
+    feed = feed_xml |> SecLatestFilingsRssFeedParser.Feed.parse
     assert feed == %{
       updated: "2016-02-17T21:43:00-05:00",
       entries: [

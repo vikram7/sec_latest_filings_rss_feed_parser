@@ -1,4 +1,4 @@
-defmodule CandyXml.Mixfile do
+defmodule SecLatestFilingsRssFeedParser.Mixfile do
   use Mix.Project
 
   def project do
