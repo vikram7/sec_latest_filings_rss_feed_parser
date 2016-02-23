@@ -63,15 +63,10 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   end
 
   defp parse_cik_id(xml) do
-    regex = ~r/\(\d+\)/
+    regex = ~r/\d{10}/
     title = parse_title(xml)
 
     Regex.run(regex, title, capture: :first)
-    |> hd
-    |> String.split("(")
-    |> tl
-    |> hd
-    |> String.split(")")
     |> hd
   end
 end
