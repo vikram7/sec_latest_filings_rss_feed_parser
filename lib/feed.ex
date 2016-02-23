@@ -1,5 +1,4 @@
 defmodule SecLatestFilingsRssFeedParser.Feed do
-  import SweetXml
 
   defstruct [:entry]
 

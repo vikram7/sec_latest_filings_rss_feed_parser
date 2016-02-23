@@ -27,9 +27,6 @@ defmodule SecLatestFilingsRssFeedParser.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [
-      {:sweet_xml, "~> 0.6.1"},
-      {:floki, "~> 0.7.1"}
-    ]
+    [{:floki, "~> 0.7.1"}]
   end
 end
