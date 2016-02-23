@@ -1,4 +1,4 @@
-# sec_latest_filings_rss_feed_parser
+# SecLatestFilingsRssFeedParser
 
 **TODO: Add description**
 
