@@ -15,8 +15,15 @@ defmodule CandyXml.Feed do
     |> Enum.map(fn entry -> CandyXml.Entry.parse(Floki.raw_html(entry)) end)
   end
 
+  defp extract_updated(tuple) do
+    {_, _, updated_date} = tuple
+    updated_date |> hd
+  end
+
   defp parse_updated(feed) do
     feed
-    |> xpath(~x"//feed/updated/text()"s)
+    |> Floki.find("updated")
+    |> hd
+    |> extract_updated
   end
 end
