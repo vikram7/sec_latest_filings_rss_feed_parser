@@ -2,7 +2,7 @@ defmodule SecLatestFilingsRssFeedParser.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :candy_xml,
+    [app: :sec_recent_filings_rss_feed_parser,
      version: "0.0.1",
      elixir: "~> 1.1",
      build_embedded: Mix.env == :prod,
