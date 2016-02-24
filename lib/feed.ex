@@ -1,5 +1,7 @@
 defmodule SecLatestFilingsRssFeedParser.Feed do
 
+  alias SecLatestFilingsRssFeedParser.Helpers
+
   defstruct [:entry]
 
   def parse(xml) do
@@ -14,15 +16,10 @@ defmodule SecLatestFilingsRssFeedParser.Feed do
     |> Enum.map(fn entry -> SecLatestFilingsRssFeedParser.Entry.parse(Floki.raw_html(entry)) end)
   end
 
-  defp extract_updated(tuple) do
-    {_, _, updated_date} = tuple
-    updated_date |> hd
-  end
-
   defp parse_updated(feed) do
     feed
     |> Floki.find("updated")
     |> hd
-    |> extract_updated
+    |> Helpers.extract_last_item
   end
 end

@@ -1,5 +1,7 @@
 defmodule SecLatestFilingsRssFeedParser.Entry do
 
+  alias SecLatestFilingsRssFeedParser.Helpers
+
   defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id]
 
   def parse(xml) do
@@ -13,16 +15,11 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
     }
   end
 
-  defp extract_title(tuple) do
-    {_, _, title} = tuple
-    title |> hd
-  end
-
   defp parse_title(xml) do
     xml
     |> Floki.find("title")
     |> hd
-    |> extract_title
+    |> Helpers.extract_last_item
   end
 
   defp parse_link(xml) do
@@ -38,28 +35,18 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
     |> String.strip
   end
 
-  defp extract_updated_date(tuple) do
-    {_, _, updated} = tuple
-    updated |> hd
-  end
-
   defp parse_updated_date(xml) do
     xml
     |> Floki.find("updated")
     |> hd
-    |> extract_updated_date
-  end
-
-  defp extract_rss_feed_id(tuple) do
-    {_, _, rss_feed_id} = tuple
-    rss_feed_id |> hd
+    |> Helpers.extract_last_item
   end
 
   defp parse_rss_feed_id(xml) do
     xml
     |> Floki.find("id")
     |> hd
-    |> extract_rss_feed_id
+    |> Helpers.extract_last_item
   end
 
   defp parse_cik_id(xml) do
