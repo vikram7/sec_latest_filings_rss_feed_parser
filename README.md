@@ -100,3 +100,7 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:sec_latest_filings_rss_feed_parser]]
         end
+
+## License
+
+This library is under the MIT [license](LICENSE.md).
