@@ -49,9 +49,7 @@ For example, if you went to the SEC's Latest Filings RSS Feed [here](https://www
 </feed>
 ```
 
-The XML has a `feed`, which has many `entries`. Parsing the feed would return an Elixir map that looks like the following:
-
-`SecLatestFilingsRssFeedParser.parse(xml_document)`
+The XML has a `feed`, which has many `entries`. Parsing the feed (`SecLatestFilingsRssFeedParser.parse(xml_document)`) would return an Elixir map that looks like the following:
 
 ```elixir
 {:ok,
