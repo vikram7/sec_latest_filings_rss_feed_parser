@@ -1,8 +1,18 @@
 defmodule SecLatestFilingsRssFeedParser.Entry do
+  @moduledoc """
+  This module handles the parsing and creation of an entry
+  map. An entry in the SEC's Latest Filings RSS Feed is defined
+  by the content between opening <entry> and closing </entry>
+  tags
+  """
 
   alias SecLatestFilingsRssFeedParser.Helpers
 
   defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id]
+
+  @doc """
+  parse/1 takes an xml entry and parses it to return a map of that entry.
+  """
 
   def parse(xml) do
     %{

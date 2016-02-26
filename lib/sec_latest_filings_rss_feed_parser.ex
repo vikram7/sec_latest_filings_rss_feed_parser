@@ -1,4 +1,9 @@
 defmodule SecLatestFilingsRssFeedParser do
+  @moduledoc """
+  This module generates what the library returns or
+  handles errors if there are issues generating it
+  """
+
   def parse(xml) do
     {:ok, SecLatestFilingsRssFeedParser.Feed.parse(xml)}
   catch
