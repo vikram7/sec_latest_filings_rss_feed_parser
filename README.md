@@ -1,4 +1,4 @@
-[![HEX version](https://img.shields.io/hexpm/v/sec_recent_filings_rss_feed_parser.png)](https://hex.pm/packages/sec_recent_filings_rss_feed_parser)
+[![CircleCI](https://circleci.com/gh/vikram7/sec_latest_filings_rss_feed_parser.png?style=shield&circle-token=777d83f525af0daf7b4dd0a82b32751f25ea29eb)](https://circleci.com/gh/vikram7/sec_latest_filings_rss_feed_parser)[![HEX version](https://img.shields.io/hexpm/v/sec_recent_filings_rss_feed_parser.png)](https://hex.pm/packages/sec_recent_filings_rss_feed_parser)
 
 # SecLatestFilingsRssFeedParser
 
