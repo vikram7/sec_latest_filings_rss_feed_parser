@@ -1,3 +1,5 @@
+[![HEX version](https://img.shields.io/hexpm/v/sec_recent_filings_rss_feed_parser.png)](https://hex.pm/packages/sec_recent_filings_rss_feed_parser)
+
 # SecLatestFilingsRssFeedParser
 
 This is a simple parser with one goal: to hit the SEC's Latest Filings RSS Feed and parse the XML to return back a workable format.
