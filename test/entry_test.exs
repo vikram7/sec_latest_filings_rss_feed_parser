@@ -23,6 +23,11 @@ defmodule SecLatestFilingsRssFeedParserEntryTest do
     assert entry.cik_id == "0001121788"
   end
 
+  test "parses category" do
+    entry = entry_xml |> parse
+    assert entry.category == "10-K"
+  end
+
   test "parses link" do
     entry = entry_xml |> parse
     assert entry.link == "http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243-index.htm"

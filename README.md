@@ -60,17 +60,15 @@ The XML has a `feed`, which has many `entries`. Parsing the feed (`SecLatestFili
       rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0000050104-16-000055",
       summary: "Filed: 2016-02-25 AccNo: 0000050104-16-000055 Size: 23 MB",
       title: "10-K - TESORO CORP /NEW/ (0000050104) (Filer)",
-      updated_date: "2016-02-25T17:29:49-05:00"},
+      updated_date: "2016-02-25T17:29:49-05:00"
+      category: "10-K"},
     %{cik_id: "0000092230",
       link: "http://www.sec.gov/Archives/edgar/data/92230/000009223016000125/0000092230-16-000125-index.htm",
       rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0000092230-16-000125",
       summary: "Filed: 2016-02-25 AccNo: 0000092230-16-000125 Size: 28 MB",
       title: "10-K - BB&T CORP (0000092230) (Filer)",
-      updated_date: "2016-02-25T17:25:57-05:00"},
-      rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0001275477-16-000111",
-      summary: "Filed: 2016-02-25 AccNo: 0001275477-16-000111 Size: 8 MB",
-      title: "10-K - Orchid Island Capital, Inc. (0001518621) (Filer)",
-      updated_date: "2016-02-25T17:19:42-05:00"},
+      updated_date: "2016-02-25T17:25:57-05:00"
+      category: "10-K"},
     .
     .
     .
@@ -79,11 +77,12 @@ The XML has a `feed`, which has many `entries`. Parsing the feed (`SecLatestFili
       rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0001193125-16-478532",
       summary: "Filed: 2016-02-25 AccNo: 0001193125-16-478532 Size: 7 MB",
       title: "10-K - Benefitfocus,Inc. (0001576169) (Filer)",
-      updated_date: "2016-02-25T17:05:40-05:00"}],
+      updated_date: "2016-02-25T17:05:40-05:00",
+      category: "10-K"}],
    updated: "2016-02-25T18:54:17-05:00"}}
 ```
 
-An entry's map contains a `cik_id` (the identifier the SEC uses for a company or security), a `link` to the filing, an `rss_feed_id` which represents a unique id of the entry, a `summary` which is a short summary of the document, a filing `title` and an `updated_date`. The feed is a map of those entries and an `updated` date of the feed.
+An entry's map contains a `cik_id` (the identifier the SEC uses for a company or security), a `link` to the filing, a `category` which represents the category of filing (10-K, 10-Q, 4, etc.), an `rss_feed_id` which represents a unique id of the entry, a `summary` which is a short summary of the document, a filing `title` and an `updated_date`. The feed is a map of those entries and an `updated` date of the feed.
 
 Be bold, use this tool to bring some sanity to parsing the SEC's XML feed and feel free to contribute!
 

@@ -8,7 +8,7 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
 
   alias SecLatestFilingsRssFeedParser.Helpers
 
-  defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id]
+  defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id, :category]
 
   @doc """
   parse/1 takes an xml entry and parses it to return a map of that entry.
@@ -21,8 +21,20 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
       summary: parse_summary(xml),
       updated_date: parse_updated_date(xml),
       rss_feed_id: parse_rss_feed_id(xml),
-      cik_id: parse_cik_id(xml)
+      cik_id: parse_cik_id(xml),
+      category: parse_category(xml)
     }
+  end
+
+  defp parse_category(xml) do
+    {_, metadata, _} = xml
+    |> Floki.find("category")
+    |> hd
+
+    {_, category} = metadata
+    |> List.last
+
+    category
   end
 
   defp parse_title(xml) do
