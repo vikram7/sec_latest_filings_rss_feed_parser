@@ -61,4 +61,11 @@ defmodule SecLatestFilingsRssFeedParserFeedTest do
       ]
     }
   end
+
+  test "parse/1 against entire xml file" do
+    xml = File.read!("test/fixtures/filings_atom_feed.xml")
+    feed = xml |> SecLatestFilingsRssFeedParser.Feed.parse
+
+    assert feed.updated == "2016-02-17T21:43:00-05:00"
+  end
 end
