@@ -8,8 +8,6 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
 
   alias SecLatestFilingsRssFeedParser.Helpers
 
-  defstruct [:title, :link, :summary, :updated_date, :rss_feed_id, :cik_id, :category]
-
   @doc """
   parse/1 takes an xml entry and parses it to return a map of that entry.
   """

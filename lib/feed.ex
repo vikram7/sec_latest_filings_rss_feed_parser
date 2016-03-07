@@ -8,8 +8,6 @@ defmodule SecLatestFilingsRssFeedParser.Feed do
 
   alias SecLatestFilingsRssFeedParser.Helpers
 
-  defstruct [:entry]
-
   @doc """
   SecLatestFilingsRssFeedParser.parse/1 returns a map of
   a feed with its updated date and many entries.
