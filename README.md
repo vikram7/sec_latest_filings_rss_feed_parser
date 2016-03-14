@@ -88,7 +88,7 @@ Be bold, use this tool to bring some sanity to parsing the SEC's XML feed and fe
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
+This project is [available in Hex](https://hex.pm/docs/publish) and the package can be installed as:
 
   1. Add sec_latest_filings_rss_feed_parser to your list of dependencies in `mix.exs`:
 
