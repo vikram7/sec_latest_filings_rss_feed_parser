@@ -88,12 +88,12 @@ Be bold, use this tool to bring some sanity to parsing the SEC's XML feed and fe
 
 ## Installation
 
-This project is [available in Hex](https://hex.pm/docs/publish) and the package can be installed as:
+This project is [available in Hex](https://hex.pm/packages/sec_recent_filings_rss_feed_parser) and the package can be installed as:
 
   1. Add sec_latest_filings_rss_feed_parser to your list of dependencies in `mix.exs`:
 
         def deps do
-          [{:sec_latest_filings_rss_feed_parser, "~> 0.0.1"}]
+          [{:sec_latest_filings_rss_feed_parser, "~> 0.0.2"}]
         end
 
   2. Ensure sec_latest_filings_rss_feed_parser is started before your application:
