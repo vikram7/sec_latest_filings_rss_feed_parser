@@ -6,8 +6,6 @@ defmodule SecLatestFilingsRssFeedParser.Feed do
   tags, including metadata and multiple entries
   """
 
-  alias SecLatestFilingsRssFeedParser.Helpers
-
   @doc """
   SecLatestFilingsRssFeedParser.parse/1 returns a map of
   a feed with its updated date and many entries.
@@ -26,9 +24,11 @@ defmodule SecLatestFilingsRssFeedParser.Feed do
   end
 
   defp parse_updated(feed) do
-    feed
-    |> Floki.find("updated")
-    |> hd
-    |> Helpers.extract_last_item
+    {_, _, [extracted_feed]} =
+      feed
+      |> Floki.find("updated")
+      |> hd
+
+    extracted_feed
   end
 end

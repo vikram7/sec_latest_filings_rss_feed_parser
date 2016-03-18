@@ -6,8 +6,6 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   tags
   """
 
-  alias SecLatestFilingsRssFeedParser.Helpers
-
   @doc """
   parse/1 takes an xml entry and parses it to return a map of that entry.
   """
@@ -25,21 +23,24 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   end
 
   defp parse_category(xml) do
-    {_, metadata, _} = xml
-    |> Floki.find("category")
-    |> hd
+    {_, metadata, _} =
+      xml
+      |> Floki.find("category")
+      |> hd
 
-    {_, category} = metadata
-    |> List.last
+    {_, category} =
+      metadata
+      |> List.last
 
     category
   end
 
   defp parse_title(xml) do
-    xml
-    |> Floki.find("title")
-    |> hd
-    |> Helpers.extract_last_item
+    [{_, _, [title]}] =
+      xml
+      |> Floki.find("title")
+
+    title
   end
 
   defp parse_link(xml) do
@@ -56,17 +57,19 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   end
 
   defp parse_updated_date(xml) do
-    xml
-    |> Floki.find("updated")
-    |> hd
-    |> Helpers.extract_last_item
+    [{_, _, [updated]}] =
+      xml
+      |> Floki.find("updated")
+
+    updated
   end
 
   defp parse_rss_feed_id(xml) do
-    xml
-    |> Floki.find("id")
-    |> hd
-    |> Helpers.extract_last_item
+    [{_, _, [id]}] = 
+      xml
+      |> Floki.find("id")
+
+    id
   end
 
   defp parse_cik_id(xml) do
