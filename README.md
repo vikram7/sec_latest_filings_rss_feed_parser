@@ -93,7 +93,7 @@ This project is [available in Hex](https://hex.pm/packages/sec_recent_filings_rs
   1. Add sec_latest_filings_rss_feed_parser to your list of dependencies in `mix.exs`:
 
         def deps do
-          [{:sec_latest_filings_rss_feed_parser, "~> 0.0.2"}]
+          [{:sec_latest_filings_rss_feed_parser, "~> 0.0.3"}]
         end
 
   2. Ensure sec_latest_filings_rss_feed_parser is started before your application:
