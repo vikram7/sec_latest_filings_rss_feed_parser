@@ -20,7 +20,10 @@ defmodule SecLatestFilingsRssFeedParser.Feed do
 
   defp parse_feed(xml) do
     Floki.find(xml, "entry")
-    |> Enum.map(fn entry -> SecLatestFilingsRssFeedParser.Entry.parse(Floki.raw_html(entry)) end)
+    |> Enum.map(fn entry ->
+      Floki.raw_html(entry)
+      |> SecLatestFilingsRssFeedParser.Entry.parse
+    end)
   end
 
   defp parse_updated(feed) do
