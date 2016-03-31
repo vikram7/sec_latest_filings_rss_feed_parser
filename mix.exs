@@ -3,7 +3,7 @@ defmodule SecLatestFilingsRssFeedParser.Mixfile do
 
   def project do
     [app: :sec_recent_filings_rss_feed_parser,
-     version: "0.0.3",
+     version: "0.0.4",
      elixir: "~> 1.2",
      description: description,
      build_embedded: Mix.env == :prod,
@@ -17,7 +17,7 @@ defmodule SecLatestFilingsRssFeedParser.Mixfile do
   end
 
   defp deps do
-    [{:floki, "~> 0.7.1"}]
+    [{:floki, "~> 0.8.0"}]
   end
 
   defp description do
