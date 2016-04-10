@@ -17,7 +17,7 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
       summary: parse_summary(xml),
       updated_date: parse_updated_date(xml),
       rss_feed_id: parse_rss_feed_id(xml),
-      cik_id: parse_cik_id(xml),
+      cik: parse_cik(xml),
       category: parse_category(xml)
     }
   end
@@ -72,7 +72,7 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
     id
   end
 
-  defp parse_cik_id(xml) do
+  defp parse_cik(xml) do
     regex = ~r/\d{10}/
     title = parse_title(xml)
 

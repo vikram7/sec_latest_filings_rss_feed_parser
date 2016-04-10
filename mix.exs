@@ -3,7 +3,7 @@ defmodule SecLatestFilingsRssFeedParser.Mixfile do
 
   def project do
     [app: :sec_recent_filings_rss_feed_parser,
-     version: "0.0.4",
+     version: "0.0.5",
      elixir: "~> 1.2",
      description: description,
      build_embedded: Mix.env == :prod,
