@@ -18,9 +18,9 @@ defmodule SecLatestFilingsRssFeedParserEntryTest do
     """
   end
 
-  test "parses cik_id" do
+  test "parses cik" do
     entry = entry_xml |> parse
-    assert entry.cik_id == "0001121788"
+    assert entry.cik == "0001121788"
   end
 
   test "parses category" do

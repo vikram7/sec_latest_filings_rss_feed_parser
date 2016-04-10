@@ -46,7 +46,7 @@ defmodule SecLatestFilingsRssFeedParserFeedTest do
           summary: "Filed: 2016-02-16 AccNo: 0001069202-16-000014 Size: 24 MB",
           updated_date: "2016-02-16T11:52:50-05:00",
           rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0001069202-16-000014",
-          cik_id: "0001069202",
+          cik: "0001069202",
           category: "10-K"
         },
         %{
@@ -55,7 +55,7 @@ defmodule SecLatestFilingsRssFeedParserFeedTest do
           summary: "Filed: 2016-02-16 AccNo: 0000764764-16-000111 Size: 20 MB",
           updated_date: "2016-02-16T11:24:30-05:00",
           rss_feed_id: "urn:tag:sec.gov,2008:accession-number=0000764764-16-000111",
-          cik_id: "0000764764",
+          cik: "0000764764",
           category: "10-K"
         }
       ]
