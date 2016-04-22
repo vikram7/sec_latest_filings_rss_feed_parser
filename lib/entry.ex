@@ -13,7 +13,8 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   def parse(xml) do
     %{
       title: parse_title(xml),
-      link: parse_link(xml),
+      html_link: parse_html_link(xml),
+      text_link: parse_text_link(xml),
       summary: parse_summary(xml),
       updated_date: parse_updated_date(xml),
       rss_feed_id: parse_rss_feed_id(xml),
@@ -43,10 +44,16 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
     title
   end
 
-  defp parse_link(xml) do
+  defp parse_html_link(xml) do
     regex = ~r/http(.*)index.htm/
     Regex.run(regex, xml, capture: :first)
     |> hd
+  end
+
+  defp parse_text_link(xml) do
+    xml
+    |> parse_html_link
+    |> String.replace("-index.htm", ".txt")
   end
 
   defp parse_summary(xml) do

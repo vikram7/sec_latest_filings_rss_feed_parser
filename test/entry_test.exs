@@ -28,9 +28,14 @@ defmodule SecLatestFilingsRssFeedParserEntryTest do
     assert entry.category == "10-K"
   end
 
-  test "parses link" do
+  test "parses html link" do
     entry = entry_xml |> parse
-    assert entry.link == "http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243-index.htm"
+    assert entry.html_link == "http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243-index.htm"
+  end
+
+  test "parses text link" do
+    entry = entry_xml |> parse
+    assert entry.text_link == "http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243.txt"
   end
 
   test "parses rss_feed_id" do
