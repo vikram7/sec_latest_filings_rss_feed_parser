@@ -2,7 +2,7 @@
 
 # SecLatestFilingsRssFeedParser
 
-This is a simple parser with one goal: to hit the SEC's Latest Filings RSS Feed and parse the XML to return back a workable format.
+This is a simple parser with one goal: to hit the SEC's Latest Filings RSS Feed and parse the XML to return back a workable JSON-like format.
 
 For example, if you went to the SEC's Latest Filings RSS Feed [here](https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=10-K&company=&dateb=&owner=include&start=0&count=40&output=atom), you would see XML in the following format:
 
