@@ -2,9 +2,11 @@
 
 # SecLatestFilingsRssFeedParser
 
-This is a simple parser with one goal: to hit the SEC's Latest Filings RSS Feed and parse the XML to return back a workable JSON-like format.
+This is a simple parser with one goal: to hit the SEC's Latest Filings RSS Feed
+and parse the XML to return back a workable JSON-like format.
 
-For example, if you went to the SEC's Latest Filings RSS Feed [here](https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=10-K&company=&dateb=&owner=include&start=0&count=40&output=atom), you would see XML in the following format:
+For example, if you went to the SEC's Latest Filings RSS Feed [here](https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&CIK=&type=10-K&company=&dateb=&owner=include&start=0&count=40&output=atom), you would see XML in the
+following format:
 
 ```xml
 <?xml version="1.0" encoding="ISO-8859-1" ?>
@@ -51,7 +53,9 @@ For example, if you went to the SEC's Latest Filings RSS Feed [here](https://www
 </feed>
 ```
 
-The XML has a `feed`, which has many `entries`. Parsing the feed (`SecLatestFilingsRssFeedParser.parse(xml_document)`) would return an Elixir map that looks like the following:
+The XML has a `feed`, which has many `entries`. Parsing the feed
+(`SecLatestFilingsRssFeedParser.parse(xml_document)`) would return an Elixir
+map that looks like the following:
 
 ```elixir
 {:ok,
@@ -85,9 +89,16 @@ The XML has a `feed`, which has many `entries`. Parsing the feed (`SecLatestFili
    updated: "2016-02-25T18:54:17-05:00"}}
 ```
 
-An entry's map contains a `cik` (the identifier the SEC uses for a company or security), an `html_link` to the filing, a `text_link` to the text version of teh filing, a `category` which represents the category of filing (10-K, 10-Q, 4, etc.), an `rss_feed_id` which represents a unique id of the entry, a `summary` which is a short summary of the document, a filing `title` and an `updated_date`. The feed is a map of those entries and an `updated` date of the feed.
+An entry's map contains a `cik` (the identifier the SEC uses for a company or
+security), an `html_link` to the filing, a `text_link` to the text version of
+teh filing, a `category` which represents the category of filing (10-K, 10-Q,
+4, etc.), an `rss_feed_id` which represents a unique id of the entry, a
+`summary` which is a short summary of the document, a filing `title` and an
+`updated_date`. The feed is a map of those entries and an `updated` date of the
+feed.
 
-Be bold, use this tool to bring some sanity to parsing the SEC's XML feed and feel free to contribute!
+Be bold, use this tool to bring some sanity to parsing the SEC's XML feed and
+feel free to contribute!
 
 ## Installation
 
