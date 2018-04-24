@@ -1,3 +1,5 @@
-%{"floki": {:hex, :floki, "0.8.0"},
+%{
+  "floki": {:hex, :floki, "0.8.1", "06aa75bf2d1e01cda7d2ad54f68614be653a11e76b474d8fcb1d838f8c1e0ad1", [:mix], [{:mochiweb_html, "~> 2.15", [hex: :mochiweb_html, optional: false]}]},
   "mochiweb": {:hex, :mochiweb, "2.12.2"},
-  "mochiweb_html": {:hex, :mochiweb_html, "2.13.0"}}
+  "mochiweb_html": {:hex, :mochiweb_html, "2.15.0", "d7402e967d7f9f2912f8befa813c37be62d5eeeddbbcb6fe986c44e01460d497", [:rebar3], []},
+}
