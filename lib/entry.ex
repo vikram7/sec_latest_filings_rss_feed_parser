@@ -60,7 +60,7 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
     xml
     |> Floki.find("summary")
     |> Floki.text
-    |> String.strip
+    |> String.trim
   end
 
   defp parse_updated_date(xml) do
@@ -72,7 +72,7 @@ defmodule SecLatestFilingsRssFeedParser.Entry do
   end
 
   defp parse_rss_feed_id(xml) do
-    [{_, _, [id]}] = 
+    [{_, _, [id]}] =
       xml
       |> Floki.find("id")
 
