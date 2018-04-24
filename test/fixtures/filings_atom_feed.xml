@@ -1,1009 +1,1009 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Latest Filings - Wed, 17 Feb 2016 21:43:00 EST</title>
-  <link rel="alternate" href="/cgi-bin/browse-edgar?action=getcurrent"/>
-  <link rel="self" href="/cgi-bin/browse-edgar?action=getcurrent"/>
-  <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent</id>
-  <author><name>Webmaster</name><email>webmaster@sec.gov</email></author>
-  <updated>2016-02-17T21:43:00-05:00</updated>
-  <entry>
-    <title>10-K - HERSHA HOSPITALITY TRUST (0001063344) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1063344/000106334416000102/0001063344-16-000102-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001063344-16-000102 &lt;b&gt;Size:&lt;/b&gt; 22 MB
-    </summary>
-    <updated>2016-02-17T17:24:57-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001063344-16-000102</id>
-  </entry>
-  <entry>
-    <title>10-K - GARMIN LTD (0001121788) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1121788/000161577416004243/0001615774-16-004243-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001615774-16-004243 &lt;b&gt;Size:&lt;/b&gt; 8 MB
-    </summary>
-    <updated>2016-02-17T17:24:49-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001615774-16-004243</id>
-  </entry>
-  <entry>
-    <title>10-K - JETBLUE AIRWAYS CORP (0001158463) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1158463/000115846316000102/0001158463-16-000102-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001158463-16-000102 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-17T17:22:10-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001158463-16-000102</id>
-  </entry>
-  <entry>
-    <title>10-K - FIRST CASH FINANCIAL SERVICES INC (0000840489) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/840489/000084048916000076/0000840489-16-000076-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000840489-16-000076 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-17T17:21:21-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000840489-16-000076</id>
-  </entry>
-  <entry>
-    <title>10-K/A - Yangtze River Development Ltd (0001487843) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1487843/000121390016011032/0001213900-16-011032-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001213900-16-011032 &lt;b&gt;Size:&lt;/b&gt; 512 KB
-    </summary>
-    <updated>2016-02-17T17:21:01-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K/A"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001213900-16-011032</id>
-  </entry>
-  <entry>
-    <title>10-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1031203/000103120316000045/0001031203-16-000045-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001031203-16-000045 &lt;b&gt;Size:&lt;/b&gt; 20 MB
-    </summary>
-    <updated>2016-02-17T17:19:52-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001031203-16-000045</id>
-  </entry>
-  <entry>
-    <title>10-K - HYSTER-YALE MATERIALS HANDLING, INC. (0001173514) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1173514/000117351416000108/0001173514-16-000108-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001173514-16-000108 &lt;b&gt;Size:&lt;/b&gt; 14 MB
-    </summary>
-    <updated>2016-02-17T17:15:36-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001173514-16-000108</id>
-  </entry>
-  <entry>
-    <title>10-K - Guaranty Bancorp (0001324410) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1324410/000132441016000071/0001324410-16-000071-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001324410-16-000071 &lt;b&gt;Size:&lt;/b&gt; 25 MB
-    </summary>
-    <updated>2016-02-17T17:12:09-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001324410-16-000071</id>
-  </entry>
-  <entry>
-    <title>10-K - Seventy Seven Energy Inc. (0001532930) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1532930/000153293016000124/0001532930-16-000124-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001532930-16-000124 &lt;b&gt;Size:&lt;/b&gt; 15 MB
-    </summary>
-    <updated>2016-02-17T17:05:23-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001532930-16-000124</id>
-  </entry>
-  <entry>
-    <title>10-K - Piedmont Office Realty Trust, Inc. (0001042776) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1042776/000104277616000200/0001042776-16-000200-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001042776-16-000200 &lt;b&gt;Size:&lt;/b&gt; 22 MB
-    </summary>
-    <updated>2016-02-17T17:05:19-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001042776-16-000200</id>
-  </entry>
-  <entry>
-    <title>10-K - NEWMONT MINING CORP /DE/ (0001164727) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1164727/000155837016003258/0001558370-16-003258-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001558370-16-003258 &lt;b&gt;Size:&lt;/b&gt; 55 MB
-    </summary>
-    <updated>2016-02-17T17:05:16-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001558370-16-003258</id>
-  </entry>
-  <entry>
-    <title>10-K - GENOCEA BIOSCIENCES, INC. (0001457612) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1457612/000145761216000048/0001457612-16-000048-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001457612-16-000048 &lt;b&gt;Size:&lt;/b&gt; 8 MB
-    </summary>
-    <updated>2016-02-17T17:01:47-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001457612-16-000048</id>
-  </entry>
-  <entry>
-    <title>10-K - Tallgrass Energy GP, LP (0001633651) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1633651/000163365116000031/0001633651-16-000031-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001633651-16-000031 &lt;b&gt;Size:&lt;/b&gt; 15 MB
-    </summary>
-    <updated>2016-02-17T16:52:21-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001633651-16-000031</id>
-  </entry>
-  <entry>
-    <title>10-K/A - Medovex Corp. (0001591165) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1591165/000141588916004814/0001415889-16-004814-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001415889-16-004814 &lt;b&gt;Size:&lt;/b&gt; 1 MB
-    </summary>
-    <updated>2016-02-17T16:50:06-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K/A"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001415889-16-004814</id>
-  </entry>
-  <entry>
-    <title>10-K - Laredo Petroleum, Inc. (0001528129) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1528129/000152812916000186/0001528129-16-000186-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001528129-16-000186 &lt;b&gt;Size:&lt;/b&gt; 24 MB
-    </summary>
-    <updated>2016-02-17T16:49:10-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001528129-16-000186</id>
-  </entry>
-  <entry>
-    <title>10-K - Tallgrass Energy Partners, LP (0001569134) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1569134/000156913416000047/0001569134-16-000047-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001569134-16-000047 &lt;b&gt;Size:&lt;/b&gt; 16 MB
-    </summary>
-    <updated>2016-02-17T16:48:26-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001569134-16-000047</id>
-  </entry>
-  <entry>
-    <title>10-K - BAKER HUGHES INC (0000808362) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/808362/000080836216000053/0000808362-16-000053-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000808362-16-000053 &lt;b&gt;Size:&lt;/b&gt; 15 MB
-    </summary>
-    <updated>2016-02-17T16:36:14-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000808362-16-000053</id>
-  </entry>
-  <entry>
-    <title>10-K - Takung Art Co., Ltd. (0001491487) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1491487/000114420416083057/0001144204-16-083057-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-083057 &lt;b&gt;Size:&lt;/b&gt; 3 MB
-    </summary>
-    <updated>2016-02-17T16:32:25-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-083057</id>
-  </entry>
-  <entry>
-    <title>10-K - COMMUNITY HEALTH SYSTEMS INC (0001108109) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1108109/000119312516467152/0001193125-16-467152-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-467152 &lt;b&gt;Size:&lt;/b&gt; 34 MB
-    </summary>
-    <updated>2016-02-17T16:27:11-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-467152</id>
-  </entry>
-  <entry>
-    <title>10-K - CNA FINANCIAL CORP (0000021175) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/21175/000002117516000135/0000021175-16-000135-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000021175-16-000135 &lt;b&gt;Size:&lt;/b&gt; 26 MB
-    </summary>
-    <updated>2016-02-17T16:27:01-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000021175-16-000135</id>
-  </entry>
-  <entry>
-    <title>10-K - CYS Investments, Inc. (0001396446) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1396446/000139644616000157/0001396446-16-000157-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001396446-16-000157 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-17T16:15:58-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001396446-16-000157</id>
-  </entry>
-  <entry>
-    <title>10-K - MAXWELL TECHNOLOGIES INC (0000319815) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/319815/000031981516000099/0000319815-16-000099-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000319815-16-000099 &lt;b&gt;Size:&lt;/b&gt; 11 MB
-    </summary>
-    <updated>2016-02-17T16:13:05-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000319815-16-000099</id>
-  </entry>
-  <entry>
-    <title>10-K - BRUNSWICK CORP (0000014930) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/14930/000162828016011325/0001628280-16-011325-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001628280-16-011325 &lt;b&gt;Size:&lt;/b&gt; 19 MB
-    </summary>
-    <updated>2016-02-17T16:12:34-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001628280-16-011325</id>
-  </entry>
-  <entry>
-    <title>10-K - RETAIL PROPERTIES OF AMERICA, INC. (0001222840) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1222840/000122284016000032/0001222840-16-000032-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001222840-16-000032 &lt;b&gt;Size:&lt;/b&gt; 33 MB
-    </summary>
-    <updated>2016-02-17T16:12:16-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001222840-16-000032</id>
-  </entry>
-  <entry>
-    <title>10-K - Grand Canyon Education, Inc. (0001434588) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1434588/000119312516467102/0001193125-16-467102-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-467102 &lt;b&gt;Size:&lt;/b&gt; 6 MB
-    </summary>
-    <updated>2016-02-17T16:08:44-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-467102</id>
-  </entry>
-  <entry>
-    <title>10-K - INTEVAC INC (0001001902) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1001902/000119312516467095/0001193125-16-467095-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-467095 &lt;b&gt;Size:&lt;/b&gt; 8 MB
-    </summary>
-    <updated>2016-02-17T16:07:23-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-467095</id>
-  </entry>
-  <entry>
-    <title>10-K - FALCONSTOR SOFTWARE INC (0000922521) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/922521/000092252116000034/0000922521-16-000034-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000922521-16-000034 &lt;b&gt;Size:&lt;/b&gt; 11 MB
-    </summary>
-    <updated>2016-02-17T16:07:02-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000922521-16-000034</id>
-  </entry>
-  <entry>
-    <title>10-K - SMITH A O CORP (0000091142) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/91142/000119312516467088/0001193125-16-467088-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-467088 &lt;b&gt;Size:&lt;/b&gt; 8 MB
-    </summary>
-    <updated>2016-02-17T16:05:53-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-467088</id>
-  </entry>
-  <entry>
-    <title>10-K - HALF ROBERT INTERNATIONAL INC /DE/ (0000315213) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/315213/000162828016011322/0001628280-16-011322-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001628280-16-011322 &lt;b&gt;Size:&lt;/b&gt; 8 MB
-    </summary>
-    <updated>2016-02-17T16:05:36-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001628280-16-011322</id>
-  </entry>
-  <entry>
-    <title>10-K - NVR INC (0000906163) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/906163/000156459016012809/0001564590-16-012809-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001564590-16-012809 &lt;b&gt;Size:&lt;/b&gt; 14 MB
-    </summary>
-    <updated>2016-02-17T16:03:38-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001564590-16-012809</id>
-  </entry>
-  <entry>
-    <title>10-K - GLADSTONE COMMERCIAL CORP (0001234006) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1234006/000119312516467081/0001193125-16-467081-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-467081 &lt;b&gt;Size:&lt;/b&gt; 10 MB
-    </summary>
-    <updated>2016-02-17T16:03:30-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-467081</id>
-  </entry>
-  <entry>
-    <title>10-K - CERNER CORP /MO/ (0000804753) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/804753/000080475316000061/0000804753-16-000061-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000804753-16-000061 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-17T16:03:22-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000804753-16-000061</id>
-  </entry>
-  <entry>
-    <title>10-K - WEYERHAEUSER CO (0000106535) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/106535/000010653516000046/0000106535-16-000046-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000106535-16-000046 &lt;b&gt;Size:&lt;/b&gt; 24 MB
-    </summary>
-    <updated>2016-02-17T16:03:03-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000106535-16-000046</id>
-  </entry>
-  <entry>
-    <title>10-K - Spirit Airlines, Inc. (0001498710) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1498710/000149871016000205/0001498710-16-000205-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001498710-16-000205 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-17T16:02:04-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001498710-16-000205</id>
-  </entry>
-  <entry>
-    <title>10-K/A - MAJOR LEAGUE FOOTBALL INC (0001308569) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1308569/000155335016001583/0001553350-16-001583-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001553350-16-001583 &lt;b&gt;Size:&lt;/b&gt; 5 MB
-    </summary>
-    <updated>2016-02-17T15:52:55-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K/A"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001553350-16-001583</id>
-  </entry>
-  <entry>
-    <title>10-K - HUNTINGTON BANCSHARES INC/MD (0000049196) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/49196/000004919616000032/0000049196-16-000032-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000049196-16-000032 &lt;b&gt;Size:&lt;/b&gt; 49 MB
-    </summary>
-    <updated>2016-02-17T15:49:58-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000049196-16-000032</id>
-  </entry>
-  <entry>
-    <title>10-K - EASTGROUP PROPERTIES INC (0000049600) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/49600/000004960016000047/0000049600-16-000047-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000049600-16-000047 &lt;b&gt;Size:&lt;/b&gt; 28 MB
-    </summary>
-    <updated>2016-02-17T15:47:11-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000049600-16-000047</id>
-  </entry>
-  <entry>
-    <title>10-K - MAXLINEAR INC (0001288469) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1288469/000128846916000053/0001288469-16-000053-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001288469-16-000053 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-17T15:40:37-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001288469-16-000053</id>
-  </entry>
-  <entry>
-    <title>10-K - ENBRIDGE ENERGY MANAGEMENT L L C (0001173911) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1173911/000114420416083017/0001144204-16-083017-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-083017 &lt;b&gt;Size:&lt;/b&gt; 10 MB
-    </summary>
-    <updated>2016-02-17T15:11:58-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-083017</id>
-  </entry>
-  <entry>
-    <title>10-K - EnLink Midstream, LLC (0001592000) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1592000/000159200016000022/0001592000-16-000022-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001592000-16-000022 &lt;b&gt;Size:&lt;/b&gt; 17 MB
-    </summary>
-    <updated>2016-02-17T15:09:59-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001592000-16-000022</id>
-  </entry>
-  <entry>
-    <title>10-K - EnLink Midstream Partners, LP (0001179060) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1179060/000117906016000036/0001179060-16-000036-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001179060-16-000036 &lt;b&gt;Size:&lt;/b&gt; 16 MB
-    </summary>
-    <updated>2016-02-17T15:06:54-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001179060-16-000036</id>
-  </entry>
-  <entry>
-    <title>10-K - ENBRIDGE ENERGY PARTNERS LP (0000880285) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/880285/000114420416083008/0001144204-16-083008-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-083008 &lt;b&gt;Size:&lt;/b&gt; 24 MB
-    </summary>
-    <updated>2016-02-17T15:02:23-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-083008</id>
-  </entry>
-  <entry>
-    <title>10-K - Midcoast Energy Partners, L.P. (0001578685) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1578685/000114420416083002/0001144204-16-083002-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-083002 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-17T14:44:26-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-083002</id>
-  </entry>
-  <entry>
-    <title>10-K - Meritage Homes CORP (0000833079) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/833079/000083307916000119/0000833079-16-000119-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000833079-16-000119 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-17T13:30:03-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000833079-16-000119</id>
-  </entry>
-  <entry>
-    <title>10-K - DEVON ENERGY CORP/DE (0001090012) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1090012/000119312516466687/0001193125-16-466687-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-466687 &lt;b&gt;Size:&lt;/b&gt; 31 MB
-    </summary>
-    <updated>2016-02-17T13:00:59-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-466687</id>
-  </entry>
-  <entry>
-    <title>10-K - NOBLE ENERGY INC (0000072207) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/72207/000007220716000070/0000072207-16-000070-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000072207-16-000070 &lt;b&gt;Size:&lt;/b&gt; 26 MB
-    </summary>
-    <updated>2016-02-17T12:45:45-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000072207-16-000070</id>
-  </entry>
-  <entry>
-    <title>10-K - Mead Johnson Nutrition Co (0001452575) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1452575/000145257516000063/0001452575-16-000063-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001452575-16-000063 &lt;b&gt;Size:&lt;/b&gt; 17 MB
-    </summary>
-    <updated>2016-02-17T12:23:47-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001452575-16-000063</id>
-  </entry>
-  <entry>
-    <title>10-K - INNOSPEC INC. (0001054905) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1054905/000119312516466575/0001193125-16-466575-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-466575 &lt;b&gt;Size:&lt;/b&gt; 10 MB
-    </summary>
-    <updated>2016-02-17T11:31:54-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-466575</id>
-  </entry>
-  <entry>
-    <title>10-K/A - AS-IP TECH INC (0001067873) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1067873/000139390516000737/0001393905-16-000737-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001393905-16-000737 &lt;b&gt;Size:&lt;/b&gt; 41 KB
-    </summary>
-    <updated>2016-02-17T10:47:06-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K/A"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001393905-16-000737</id>
-  </entry>
-  <entry>
-    <title>10-K - PIONEER ENERGY SERVICES CORP (0000320575) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/320575/000032057516000097/0000320575-16-000097-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000320575-16-000097 &lt;b&gt;Size:&lt;/b&gt; 15 MB
-    </summary>
-    <updated>2016-02-17T10:45:28-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000320575-16-000097</id>
-  </entry>
-  <entry>
-    <title>10-K - SKOOKUM SAFETY SOLUTIONS CORP. (0001537048) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1537048/000114420416082949/0001144204-16-082949-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-082949 &lt;b&gt;Size:&lt;/b&gt; 1 MB
-    </summary>
-    <updated>2016-02-17T10:27:13-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-082949</id>
-  </entry>
-  <entry>
-    <title>10-K - Philip Morris International Inc. (0001413329) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1413329/000141332916000076/0001413329-16-000076-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001413329-16-000076 &lt;b&gt;Size:&lt;/b&gt; 20 MB
-    </summary>
-    <updated>2016-02-17T10:25:14-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001413329-16-000076</id>
-  </entry>
-  <entry>
-    <title>10-K - VISHAY INTERTECHNOLOGY INC (0000103730) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/103730/000010373016000061/0000103730-16-000061-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000103730-16-000061 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-17T08:56:30-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000103730-16-000061</id>
-  </entry>
-  <entry>
-    <title>10-K - Priceline Group Inc. (0001075531) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1075531/000107553116000084/0001075531-16-000084-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001075531-16-000084 &lt;b&gt;Size:&lt;/b&gt; 13 MB
-    </summary>
-    <updated>2016-02-17T08:32:42-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001075531-16-000084</id>
-  </entry>
-  <entry>
-    <title>10-K - Enable Midstream Partners, LP (0001591763) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1591763/000159176316000128/0001591763-16-000128-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001591763-16-000128 &lt;b&gt;Size:&lt;/b&gt; 22 MB
-    </summary>
-    <updated>2016-02-17T06:33:01-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001591763-16-000128</id>
-  </entry>
-  <entry>
-    <title>10-K - ANADARKO PETROLEUM CORP (0000773910) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/773910/000077391016000073/0000773910-16-000073-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000773910-16-000073 &lt;b&gt;Size:&lt;/b&gt; 33 MB
-    </summary>
-    <updated>2016-02-17T06:29:23-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000773910-16-000073</id>
-  </entry>
-  <entry>
-    <title>10-K - T-Mobile US, Inc. (0001283699) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1283699/000128369916000073/0001283699-16-000073-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001283699-16-000073 &lt;b&gt;Size:&lt;/b&gt; 20 MB
-    </summary>
-    <updated>2016-02-17T06:09:43-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001283699-16-000073</id>
-  </entry>
-  <entry>
-    <title>10-K - AMERICAN CAPITAL, LTD (0000817473) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/817473/000081747316000068/0000817473-16-000068-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000817473-16-000068 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-16T21:55:38-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000817473-16-000068</id>
-  </entry>
-  <entry>
-    <title>10-K - CTI BIOPHARMA CORP (0000891293) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/891293/000089129316000105/0000891293-16-000105-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000891293-16-000105 &lt;b&gt;Size:&lt;/b&gt; 10 MB
-    </summary>
-    <updated>2016-02-16T18:49:09-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000891293-16-000105</id>
-  </entry>
-  <entry>
-    <title>10-K - TRUPANION INC. (0001371285) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1371285/000137128516000128/0001371285-16-000128-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001371285-16-000128 &lt;b&gt;Size:&lt;/b&gt; 11 MB
-    </summary>
-    <updated>2016-02-16T18:38:43-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001371285-16-000128</id>
-  </entry>
-  <entry>
-    <title>10-K - IDEXX LABORATORIES INC /DE (0000874716) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/874716/000087471616000020/0000874716-16-000020-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-17 &lt;b&gt;AccNo:&lt;/b&gt; 0000874716-16-000020 &lt;b&gt;Size:&lt;/b&gt; 20 MB
-    </summary>
-    <updated>2016-02-16T18:24:34-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000874716-16-000020</id>
-  </entry>
-  <entry>
-    <title>10-K - Arlington Asset Investment Corp. (0001209028) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1209028/000114420416082862/0001144204-16-082862-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-082862 &lt;b&gt;Size:&lt;/b&gt; 9 MB
-    </summary>
-    <updated>2016-02-16T17:28:37-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-082862</id>
-  </entry>
-  <entry>
-    <title>10-K - WESTERN ALLIANCE BANCORPORATION (0001212545) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1212545/000121254516000325/0001212545-16-000325-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001212545-16-000325 &lt;b&gt;Size:&lt;/b&gt; 36 MB
-    </summary>
-    <updated>2016-02-16T17:27:56-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001212545-16-000325</id>
-  </entry>
-  <entry>
-    <title>10-K - NOVATION COMPANIES, INC. (0001025953) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1025953/000102595316000180/0001025953-16-000180-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001025953-16-000180 &lt;b&gt;Size:&lt;/b&gt; 6 MB
-    </summary>
-    <updated>2016-02-16T17:27:54-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001025953-16-000180</id>
-  </entry>
-  <entry>
-    <title>10-K - AEROJET ROCKETDYNE HOLDINGS, INC. (0000040888) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/40888/000004088816000027/0000040888-16-000027-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000040888-16-000027 &lt;b&gt;Size:&lt;/b&gt; 43 MB
-    </summary>
-    <updated>2016-02-16T17:27:24-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000040888-16-000027</id>
-  </entry>
-  <entry>
-    <title>10-K - CONTROL4 CORP (0001259515) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1259515/000155837016003248/0001558370-16-003248-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001558370-16-003248 &lt;b&gt;Size:&lt;/b&gt; 13 MB
-    </summary>
-    <updated>2016-02-16T17:25:47-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001558370-16-003248</id>
-  </entry>
-  <entry>
-    <title>10-K - WILSHIRE BANCORP INC (0001285224) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1285224/000104746916010170/0001047469-16-010170-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001047469-16-010170 &lt;b&gt;Size:&lt;/b&gt; 36 MB
-    </summary>
-    <updated>2016-02-16T17:24:43-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001047469-16-010170</id>
-  </entry>
-  <entry>
-    <title>10-K - WESTMOUNTAIN GOLD, INC. (0001421601) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1421601/000151316216000713/0001513162-16-000713-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001513162-16-000713 &lt;b&gt;Size:&lt;/b&gt; 6 MB
-    </summary>
-    <updated>2016-02-16T17:21:40-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001513162-16-000713</id>
-  </entry>
-  <entry>
-    <title>10-K - WORLD FUEL SERVICES CORP (0000789460) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/789460/000155837016003246/0001558370-16-003246-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001558370-16-003246 &lt;b&gt;Size:&lt;/b&gt; 21 MB
-    </summary>
-    <updated>2016-02-16T17:19:17-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001558370-16-003246</id>
-  </entry>
-  <entry>
-    <title>10-K - Select Income REIT (0001537667) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1537667/000155837016003245/0001558370-16-003245-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001558370-16-003245 &lt;b&gt;Size:&lt;/b&gt; 21 MB
-    </summary>
-    <updated>2016-02-16T17:16:48-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001558370-16-003245</id>
-  </entry>
-  <entry>
-    <title>10-K - Weatherford International plc (0001603923) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1603923/000160392316000144/0001603923-16-000144-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001603923-16-000144 &lt;b&gt;Size:&lt;/b&gt; 20 MB
-    </summary>
-    <updated>2016-02-16T17:09:10-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001603923-16-000144</id>
-  </entry>
-  <entry>
-    <title>10-K - FRANKLIN STREET PROPERTIES CORP /MA/ (0001031316) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1031316/000155837016003242/0001558370-16-003242-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001558370-16-003242 &lt;b&gt;Size:&lt;/b&gt; 14 MB
-    </summary>
-    <updated>2016-02-16T17:06:17-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001558370-16-003242</id>
-  </entry>
-  <entry>
-    <title>10-K - Arax Holdings Corp (0001566243) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1566243/000101905616001119/0001019056-16-001119-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-16-001119 &lt;b&gt;Size:&lt;/b&gt; 993 KB
-    </summary>
-    <updated>2016-02-16T17:05:56-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001019056-16-001119</id>
-  </entry>
-  <entry>
-    <title>10-K - HEALTHCARE REALTY TRUST INC (0000899749) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/899749/000089974916000061/0000899749-16-000061-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000899749-16-000061 &lt;b&gt;Size:&lt;/b&gt; 22 MB
-    </summary>
-    <updated>2016-02-16T16:59:45-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000899749-16-000061</id>
-  </entry>
-  <entry>
-    <title>10-K - FirstEnergy Solutions Corp. (0001407703) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1407703/000103129616000071/0001031296-16-000071-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001031296-16-000071 &lt;b&gt;Size:&lt;/b&gt; 45 MB
-    </summary>
-    <updated>2016-02-16T16:59:25-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001031296-16-000071</id>
-  </entry>
-  <entry>
-    <title>10-K - FIRSTENERGY CORP (0001031296) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1031296/000103129616000071/0001031296-16-000071-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001031296-16-000071 &lt;b&gt;Size:&lt;/b&gt; 45 MB
-    </summary>
-    <updated>2016-02-16T16:59:25-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001031296-16-000071</id>
-  </entry>
-  <entry>
-    <title>10-K - WHIRLPOOL CORP /DE/ (0000106640) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/106640/000010664016000068/0000106640-16-000068-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000106640-16-000068 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-16T16:59:25-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000106640-16-000068</id>
-  </entry>
-  <entry>
-    <title>10-K - BALL CORP (0000009389) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/9389/000110465916097390/0001104659-16-097390-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-16-097390 &lt;b&gt;Size:&lt;/b&gt; 25 MB
-    </summary>
-    <updated>2016-02-16T16:54:03-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001104659-16-097390</id>
-  </entry>
-  <entry>
-    <title>10-K - YUM BRANDS INC (0001041061) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1041061/000104106116000056/0001041061-16-000056-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001041061-16-000056 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-16T16:52:10-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001041061-16-000056</id>
-  </entry>
-  <entry>
-    <title>10-K - Express Scripts Holding Co. (0001532063) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1532063/000153206316000017/0001532063-16-000017-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001532063-16-000017 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-16T16:41:20-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001532063-16-000017</id>
-  </entry>
-  <entry>
-    <title>10-K - CRYOLIFE INC (0000784199) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/784199/000119312516465362/0001193125-16-465362-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-465362 &lt;b&gt;Size:&lt;/b&gt; 11 MB
-    </summary>
-    <updated>2016-02-16T16:24:34-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-465362</id>
-  </entry>
-  <entry>
-    <title>10-K - Colfax CORP (0001420800) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1420800/000142080016000047/0001420800-16-000047-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001420800-16-000047 &lt;b&gt;Size:&lt;/b&gt; 18 MB
-    </summary>
-    <updated>2016-02-16T16:24:07-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001420800-16-000047</id>
-  </entry>
-  <entry>
-    <title>10-K - VERTEX PHARMACEUTICALS INC / MA (0000875320) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/875320/000087532016000067/0000875320-16-000067-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000875320-16-000067 &lt;b&gt;Size:&lt;/b&gt; 17 MB
-    </summary>
-    <updated>2016-02-16T16:23:48-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000875320-16-000067</id>
-  </entry>
-  <entry>
-    <title>10-K - VORNADO REALTY TRUST (0000899689) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/899689/000089968916000046/0000899689-16-000046-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000899689-16-000046 &lt;b&gt;Size:&lt;/b&gt; 32 MB
-    </summary>
-    <updated>2016-02-16T16:23:29-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000899689-16-000046</id>
-  </entry>
-  <entry>
-    <title>10-K - BLACKSTONE MORTGAGE TRUST, INC. (0001061630) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1061630/000119312516465332/0001193125-16-465332-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-465332 &lt;b&gt;Size:&lt;/b&gt; 9 MB
-    </summary>
-    <updated>2016-02-16T16:22:53-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-465332</id>
-  </entry>
-  <entry>
-    <title>10-K - LyondellBasell Industries N.V. (0001489393) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1489393/000119312516465311/0001193125-16-465311-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-465311 &lt;b&gt;Size:&lt;/b&gt; 29 MB
-    </summary>
-    <updated>2016-02-16T16:21:13-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-465311</id>
-  </entry>
-  <entry>
-    <title>10-K - PACCAR INC (0000075362) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/75362/000119312516465258/0001193125-16-465258-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-16-465258 &lt;b&gt;Size:&lt;/b&gt; 13 MB
-    </summary>
-    <updated>2016-02-16T16:14:11-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001193125-16-465258</id>
-  </entry>
-  <entry>
-    <title>10-K - GRACO INC (0000042888) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/42888/000004288816000010/0000042888-16-000010-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000042888-16-000010 &lt;b&gt;Size:&lt;/b&gt; 12 MB
-    </summary>
-    <updated>2016-02-16T16:07:36-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000042888-16-000010</id>
-  </entry>
-  <entry>
-    <title>10-K - ASSURANT INC (0001267238) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1267238/000162828016011239/0001628280-16-011239-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001628280-16-011239 &lt;b&gt;Size:&lt;/b&gt; 34 MB
-    </summary>
-    <updated>2016-02-16T15:59:05-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001628280-16-011239</id>
-  </entry>
-  <entry>
-    <title>10-K - REGIONS FINANCIAL CORP (0001281761) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1281761/000128176116000108/0001281761-16-000108-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001281761-16-000108 &lt;b&gt;Size:&lt;/b&gt; 40 MB
-    </summary>
-    <updated>2016-02-16T15:46:29-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001281761-16-000108</id>
-  </entry>
-  <entry>
-    <title>10-K - Diversified Resources Inc. (0001509692) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1509692/000112785516000526/0001127855-16-000526-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001127855-16-000526 &lt;b&gt;Size:&lt;/b&gt; 3 MB
-    </summary>
-    <updated>2016-02-16T15:29:54-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001127855-16-000526</id>
-  </entry>
-  <entry>
-    <title>10-K - POCKET GAMES INC. (0001591157) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1591157/000139160916000384/0001391609-16-000384-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001391609-16-000384 &lt;b&gt;Size:&lt;/b&gt; 589 KB
-    </summary>
-    <updated>2016-02-16T14:19:06-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001391609-16-000384</id>
-  </entry>
-  <entry>
-    <title>10-K - Maple Tree Kids, Inc. (0001590496) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1590496/000147793216008603/0001477932-16-008603-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001477932-16-008603 &lt;b&gt;Size:&lt;/b&gt; 1 MB
-    </summary>
-    <updated>2016-02-16T14:14:36-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001477932-16-008603</id>
-  </entry>
-  <entry>
-    <title>10-K - Renewable Energy &amp; Power, Inc. (0001608430) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1608430/000147793216008601/0001477932-16-008601-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001477932-16-008601 &lt;b&gt;Size:&lt;/b&gt; 1 MB
-    </summary>
-    <updated>2016-02-16T14:03:19-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001477932-16-008601</id>
-  </entry>
-  <entry>
-    <title>10-K - Stem Sales, Inc. (0001614083) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1614083/000117337516000154/0001173375-16-000154-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001173375-16-000154 &lt;b&gt;Size:&lt;/b&gt; 962 KB
-    </summary>
-    <updated>2016-02-16T13:45:37-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001173375-16-000154</id>
-  </entry>
-  <entry>
-    <title>10-K - Where Food Comes From, Inc. (0001360565) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1360565/000138713116004244/0001387131-16-004244-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001387131-16-004244 &lt;b&gt;Size:&lt;/b&gt; 3 MB
-    </summary>
-    <updated>2016-02-16T13:08:08-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001387131-16-004244</id>
-  </entry>
-  <entry>
-    <title>10-K - MICROPAC INDUSTRIES INC (0000065759) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/65759/000101054916000492/0001010549-16-000492-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001010549-16-000492 &lt;b&gt;Size:&lt;/b&gt; 2 MB
-    </summary>
-    <updated>2016-02-16T12:18:45-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001010549-16-000492</id>
-  </entry>
-  <entry>
-    <title>10-K - Trans-Pacific Aerospace Company, Inc. (0001422295) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1422295/000101968716005184/0001019687-16-005184-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001019687-16-005184 &lt;b&gt;Size:&lt;/b&gt; 3 MB
-    </summary>
-    <updated>2016-02-16T11:56:28-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001019687-16-005184</id>
-  </entry>
-  <entry>
-    <title>10-K - LENNOX INTERNATIONAL INC (0001069202) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1069202/000106920216000014/0001069202-16-000014-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001069202-16-000014 &lt;b&gt;Size:&lt;/b&gt; 24 MB
-    </summary>
-    <updated>2016-02-16T11:52:50-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0001069202-16-000014</id>
-  </entry>
-  <entry>
-    <title>10-K - CATERPILLAR FINANCIAL SERVICES CORP (0000764764) (Filer)</title>
-    <link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/764764/000076476416000111/0000764764-16-000111-index.htm"/>
-    <summary type="html">
-      &lt;b&gt;Filed:&lt;/b&gt; 2016-02-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000764764-16-000111 &lt;b&gt;Size:&lt;/b&gt; 20 MB
-    </summary>
-    <updated>2016-02-16T11:24:30-05:00</updated>
-    <category scheme="http://www.sec.gov/" label="form type" term="10-K"/>
-    <id>urn:tag:sec.gov,2008:accession-number=0000764764-16-000111</id>
-  </entry>
+<title>Latest Filings - Tue, 24 Apr 2018 08:22:51 EDT</title>
+<link rel="alternate" href="/cgi-bin/browse-edgar?action=getcurrent"/>
+<link rel="self" href="/cgi-bin/browse-edgar?action=getcurrent"/>
+<id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent</id>
+<author><name>Webmaster</name><email>webmaster@sec.gov</email></author>
+<updated>2018-04-24T08:22:51-04:00</updated>
+<entry>
+<title>13F-HR - Mivtachim The Workers Social Insurance Fund Ltd. (Under Special Management) (0001599719) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1599719/000117891318001251/0001178913-18-001251-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001178913-18-001251 &lt;b&gt;Size:&lt;/b&gt; 18 KB
+</summary>
+<updated>2018-04-24T07:57:13-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001178913-18-001251</id>
+</entry>
+<entry>
+<title>13F-HR - Perennial Advisors, LLC (0001697360) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1697360/000169736018000004/0001697360-18-000004-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001697360-18-000004 &lt;b&gt;Size:&lt;/b&gt; 110 KB
+</summary>
+<updated>2018-04-23T20:00:35-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001697360-18-000004</id>
+</entry>
+<entry>
+<title>13F-HR - Uncommon Cents Investing LLC (0001729754) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1729754/000108514618001140/0001085146-18-001140-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001140 &lt;b&gt;Size:&lt;/b&gt; 36 KB
+</summary>
+<updated>2018-04-23T18:26:02-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001140</id>
+</entry>
+<entry>
+<title>13F-HR - FLAGSHIP HARBOR ADVISORS, LLC (0001691766) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1691766/000122107318000024/0001221073-18-000024-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001221073-18-000024 &lt;b&gt;Size:&lt;/b&gt; 151 KB
+</summary>
+<updated>2018-04-23T18:20:10-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001221073-18-000024</id>
+</entry>
+<entry>
+<title>13F-HR - ACCIDENT COMPENSATION CORP (0001618832) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1618832/000161883218000002/0001618832-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001618832-18-000002 &lt;b&gt;Size:&lt;/b&gt; 66 KB
+</summary>
+<updated>2018-04-23T18:18:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001618832-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Autus Asset Management, LLC (0001513865) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1513865/000122107318000023/0001221073-18-000023-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001221073-18-000023 &lt;b&gt;Size:&lt;/b&gt; 110 KB
+</summary>
+<updated>2018-04-23T18:18:08-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001221073-18-000023</id>
+</entry>
+<entry>
+<title>13F-HR - Tanglewood Wealth Management, Inc. (0001454308) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1454308/000108514618001139/0001085146-18-001139-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001139 &lt;b&gt;Size:&lt;/b&gt; 8 KB
+</summary>
+<updated>2018-04-23T18:01:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001139</id>
+</entry>
+<entry>
+<title>13F-HR - Conestoga Capital Advisors, LLC (0001163744) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1163744/000108514618001138/0001085146-18-001138-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001138 &lt;b&gt;Size:&lt;/b&gt; 51 KB
+</summary>
+<updated>2018-04-23T18:00:06-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001138</id>
+</entry>
+<entry>
+<title>13F-HR - STERLING INVESTMENT ADVISORS LLC /ADV (0001009198) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1009198/000100919818000002/0001009198-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001009198-18-000002 &lt;b&gt;Size:&lt;/b&gt; 14 KB
+</summary>
+<updated>2018-04-23T17:42:22-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001009198-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Brookstone Capital Management (0001599584) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1599584/000106299318001772/0001062993-18-001772-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001062993-18-001772 &lt;b&gt;Size:&lt;/b&gt; 162 KB
+</summary>
+<updated>2018-04-23T17:23:19-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001062993-18-001772</id>
+</entry>
+<entry>
+<title>13F-HR - Wells Trecaso Financial Group, LLC (0001737987) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1737987/000122107318000022/0001221073-18-000022-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001221073-18-000022 &lt;b&gt;Size:&lt;/b&gt; 29 KB
+</summary>
+<updated>2018-04-23T16:33:32-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001221073-18-000022</id>
+</entry>
+<entry>
+<title>13F-HR - F3Logic, LLC (0001733777) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1733777/000108514618001137/0001085146-18-001137-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001137 &lt;b&gt;Size:&lt;/b&gt; 46 KB
+</summary>
+<updated>2018-04-23T16:30:22-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001137</id>
+</entry>
+<entry>
+<title>13F-HR - Jafra Capital Management LP (0001692623) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1692623/000117266118000954/0001172661-18-000954-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001172661-18-000954 &lt;b&gt;Size:&lt;/b&gt; 40 KB
+</summary>
+<updated>2018-04-23T16:26:13-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001172661-18-000954</id>
+</entry>
+<entry>
+<title>13F-HR - JLB &amp; ASSOCIATES INC (0001085227) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1085227/000108522718000002/0001085227-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085227-18-000002 &lt;b&gt;Size:&lt;/b&gt; 39 KB
+</summary>
+<updated>2018-04-23T16:13:03-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085227-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Astor Investment Management LLC (0001598416) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1598416/000159841618000008/0001598416-18-000008-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001598416-18-000008 &lt;b&gt;Size:&lt;/b&gt; 23 KB
+</summary>
+<updated>2018-04-23T16:09:19-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001598416-18-000008</id>
+</entry>
+<entry>
+<title>13F-HR - SG Capital Management LLC (0001510099) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1510099/000117266118000953/0001172661-18-000953-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001172661-18-000953 &lt;b&gt;Size:&lt;/b&gt; 32 KB
+</summary>
+<updated>2018-04-23T16:04:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001172661-18-000953</id>
+</entry>
+<entry>
+<title>13F-HR - Mechanics Bank Trust Department (0001439743) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1439743/000108514618001136/0001085146-18-001136-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001136 &lt;b&gt;Size:&lt;/b&gt; 124 KB
+</summary>
+<updated>2018-04-23T15:57:43-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001136</id>
+</entry>
+<entry>
+<title>13F-HR - REGENTATLANTIC CAPITAL LLC (0001217758) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1217758/000108514618001135/0001085146-18-001135-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001135 &lt;b&gt;Size:&lt;/b&gt; 189 KB
+</summary>
+<updated>2018-04-23T15:56:23-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001135</id>
+</entry>
+<entry>
+<title>13F-HR - CAPROCK Group, Inc. (0001610769) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1610769/000108514618001134/0001085146-18-001134-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001134 &lt;b&gt;Size:&lt;/b&gt; 206 KB
+</summary>
+<updated>2018-04-23T15:55:29-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001134</id>
+</entry>
+<entry>
+<title>13F-HR - Nikko Asset Management Americas, Inc. (0001480751) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1480751/000114036118019241/0001140361-18-019241-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001140361-18-019241 &lt;b&gt;Size:&lt;/b&gt; 68 KB
+</summary>
+<updated>2018-04-23T15:55:05-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001140361-18-019241</id>
+</entry>
+<entry>
+<title>13F-HR - Montecito Bank &amp; Trust (0001422508) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1422508/000142250818000005/0001422508-18-000005-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001422508-18-000005 &lt;b&gt;Size:&lt;/b&gt; 145 KB
+</summary>
+<updated>2018-04-23T15:51:14-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001422508-18-000005</id>
+</entry>
+<entry>
+<title>13F-HR - Pineno Levin &amp; Ford Asset Management, Inc. (0001390205) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1390205/000139020518000002/0001390205-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001390205-18-000002 &lt;b&gt;Size:&lt;/b&gt; 58 KB
+</summary>
+<updated>2018-04-23T15:49:04-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001390205-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Factorial Partners, LLC (0001732687) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1732687/000173268718000002/0001732687-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001732687-18-000002 &lt;b&gt;Size:&lt;/b&gt; 55 KB
+</summary>
+<updated>2018-04-23T15:41:14-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001732687-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - MILLER HOWARD INVESTMENTS INC /NY (0000903947) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/903947/000090394718000003/0000903947-18-000003-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000903947-18-000003 &lt;b&gt;Size:&lt;/b&gt; 76 KB
+</summary>
+<updated>2018-04-23T15:40:16-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0000903947-18-000003</id>
+</entry>
+<entry>
+<title>13F-HR - Burleson &amp; Company, LLC (0001733510) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1733510/000108514618001133/0001085146-18-001133-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001133 &lt;b&gt;Size:&lt;/b&gt; 50 KB
+</summary>
+<updated>2018-04-23T15:38:00-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001133</id>
+</entry>
+<entry>
+<title>13F-HR - Stordahl Capital Management, Inc. (0001729093) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1729093/000108514618001132/0001085146-18-001132-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001132 &lt;b&gt;Size:&lt;/b&gt; 23 KB
+</summary>
+<updated>2018-04-23T15:37:14-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001132</id>
+</entry>
+<entry>
+<title>13F-HR - HARVEY INVESTMENT CO LLC (0001162781) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1162781/000116278118000002/0001162781-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001162781-18-000002 &lt;b&gt;Size:&lt;/b&gt; 41 KB
+</summary>
+<updated>2018-04-23T15:36:32-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001162781-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - FINANCIAL &amp; INVESTMENT MANAGEMENT GROUP LTD (0001051042) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1051042/000106299318001770/0001062993-18-001770-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001062993-18-001770 &lt;b&gt;Size:&lt;/b&gt; 44 KB
+</summary>
+<updated>2018-04-23T15:22:58-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001062993-18-001770</id>
+</entry>
+<entry>
+<title>13F-HR - FIRST TRUST ADVISORS LP (0001125816) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1125816/000144554618002045/0001445546-18-002045-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001445546-18-002045 &lt;b&gt;Size:&lt;/b&gt; 1 MB
+</summary>
+<updated>2018-04-23T15:13:10-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001445546-18-002045</id>
+</entry>
+<entry>
+<title>13F-HR - Vision Capital Management, Inc. (0001417889) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1417889/000141788918000002/0001417889-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001417889-18-000002 &lt;b&gt;Size:&lt;/b&gt; 36 KB
+</summary>
+<updated>2018-04-23T15:05:49-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001417889-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Provident Investment Management, Inc. (0001076964) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1076964/000142050618000301/0001420506-18-000301-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001420506-18-000301 &lt;b&gt;Size:&lt;/b&gt; 27 KB
+</summary>
+<updated>2018-04-23T14:58:24-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001420506-18-000301</id>
+</entry>
+<entry>
+<title>13F-HR - Iron Financial, LLC (0001595509) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1595509/000139834418005853/0001398344-18-005853-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001398344-18-005853 &lt;b&gt;Size:&lt;/b&gt; 44 KB
+</summary>
+<updated>2018-04-23T14:33:43-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001398344-18-005853</id>
+</entry>
+<entry>
+<title>13F-HR - Wells Trecaso Financial Group, LLC (0001737987) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1737987/000122107318000021/0001221073-18-000021-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001221073-18-000021 &lt;b&gt;Size:&lt;/b&gt; 29 KB
+</summary>
+<updated>2018-04-23T14:23:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001221073-18-000021</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000020/0001735057-18-000020-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000020 &lt;b&gt;Size:&lt;/b&gt; 791 KB
+</summary>
+<updated>2018-04-23T14:19:57-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000020</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000018/0001735057-18-000018-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000018 &lt;b&gt;Size:&lt;/b&gt; 786 KB
+</summary>
+<updated>2018-04-23T14:13:19-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000018</id>
+</entry>
+<entry>
+<title>13F-HR - Advisory Services Network, LLC (0001573876) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1573876/000171559318000006/0001715593-18-000006-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001715593-18-000006 &lt;b&gt;Size:&lt;/b&gt; 1 MB
+</summary>
+<updated>2018-04-23T14:07:44-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001715593-18-000006</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000016/0001735057-18-000016-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000016 &lt;b&gt;Size:&lt;/b&gt; 795 KB
+</summary>
+<updated>2018-04-23T14:06:35-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000016</id>
+</entry>
+<entry>
+<title>13F-HR - Financial Architects, Inc (0001416692) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1416692/000108514618001131/0001085146-18-001131-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001131 &lt;b&gt;Size:&lt;/b&gt; 818 KB
+</summary>
+<updated>2018-04-23T14:03:35-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001131</id>
+</entry>
+<entry>
+<title>13F-HR - GRATRY &amp; Co LLC (0001027799) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1027799/000102779918000002/0001027799-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001027799-18-000002 &lt;b&gt;Size:&lt;/b&gt; 37 KB
+</summary>
+<updated>2018-04-23T14:02:05-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001027799-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Oak Asset Management, LLC (0001726375) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1726375/000108514618001130/0001085146-18-001130-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001130 &lt;b&gt;Size:&lt;/b&gt; 44 KB
+</summary>
+<updated>2018-04-23T14:00:49-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001130</id>
+</entry>
+<entry>
+<title>13F-HR - WHITENER CAPITAL MANAGEMENT, INC. (0000825217) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/825217/000160658718000330/0001606587-18-000330-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001606587-18-000330 &lt;b&gt;Size:&lt;/b&gt; 210 KB
+</summary>
+<updated>2018-04-23T14:00:33-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001606587-18-000330</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000014/0001735057-18-000014-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000014 &lt;b&gt;Size:&lt;/b&gt; 826 KB
+</summary>
+<updated>2018-04-23T14:00:02-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000014</id>
+</entry>
+<entry>
+<title>13F-HR - Diligent Investors, LLC (0001549042) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1549042/000108514618001129/0001085146-18-001129-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001129 &lt;b&gt;Size:&lt;/b&gt; 95 KB
+</summary>
+<updated>2018-04-23T13:59:37-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001129</id>
+</entry>
+<entry>
+<title>13F-HR - WHITENER CAPITAL MANAGEMENT, INC. (0000825217) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/825217/000160658718000329/0001606587-18-000329-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001606587-18-000329 &lt;b&gt;Size:&lt;/b&gt; 198 KB
+</summary>
+<updated>2018-04-23T13:58:27-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001606587-18-000329</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000012/0001735057-18-000012-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000012 &lt;b&gt;Size:&lt;/b&gt; 828 KB
+</summary>
+<updated>2018-04-23T13:53:20-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000012</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000010/0001735057-18-000010-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000010 &lt;b&gt;Size:&lt;/b&gt; 844 KB
+</summary>
+<updated>2018-04-23T13:46:49-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000010</id>
+</entry>
+<entry>
+<title>13F-HR - DENALI ADVISORS LLC (0001142941) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1142941/000114294118000002/0001142941-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001142941-18-000002 &lt;b&gt;Size:&lt;/b&gt; 141 KB
+</summary>
+<updated>2018-04-23T13:43:14-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001142941-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Tufton Capital Management (0001055963) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1055963/000105596318000002/0001055963-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001055963-18-000002 &lt;b&gt;Size:&lt;/b&gt; 57 KB
+</summary>
+<updated>2018-04-23T13:40:24-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001055963-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - KILEY JUERGENS WEALTH MANAGEMENT, LLC (0001723223) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1723223/000160658718000328/0001606587-18-000328-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001606587-18-000328 &lt;b&gt;Size:&lt;/b&gt; 37 KB
+</summary>
+<updated>2018-04-23T13:36:05-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001606587-18-000328</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000008/0001735057-18-000008-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000008 &lt;b&gt;Size:&lt;/b&gt; 851 KB
+</summary>
+<updated>2018-04-23T13:35:59-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000008</id>
+</entry>
+<entry>
+<title>13F-HR - Versant Capital Management, Inc (0001735057) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1735057/000173505718000006/0001735057-18-000006-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001735057-18-000006 &lt;b&gt;Size:&lt;/b&gt; 862 KB
+</summary>
+<updated>2018-04-23T13:25:53-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001735057-18-000006</id>
+</entry>
+<entry>
+<title>13F-HR - Cascade Investment Advisors, Inc. (0001681490) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1681490/000168149018000002/0001681490-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001681490-18-000002 &lt;b&gt;Size:&lt;/b&gt; 114 KB
+</summary>
+<updated>2018-04-23T13:15:45-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001681490-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - MEYER HANDELMAN CO (0000045319) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/45319/000004531918000002/0000045319-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000045319-18-000002 &lt;b&gt;Size:&lt;/b&gt; 187 KB
+</summary>
+<updated>2018-04-23T13:01:52-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0000045319-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Highstreet Asset Management Inc. (0001484368) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1484368/000121465918002933/0001214659-18-002933-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001214659-18-002933 &lt;b&gt;Size:&lt;/b&gt; 148 KB
+</summary>
+<updated>2018-04-23T12:57:20-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001214659-18-002933</id>
+</entry>
+<entry>
+<title>13F-HR - Verus Financial Partners, Inc. (0001481714) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1481714/000148171418000002/0001481714-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001481714-18-000002 &lt;b&gt;Size:&lt;/b&gt; 28 KB
+</summary>
+<updated>2018-04-23T12:56:26-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001481714-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Selway Asset Management (0001080523) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1080523/000108052318000007/0001080523-18-000007-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001080523-18-000007 &lt;b&gt;Size:&lt;/b&gt; 34 KB
+</summary>
+<updated>2018-04-23T12:46:18-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001080523-18-000007</id>
+</entry>
+<entry>
+<title>13F-HR - Sterling Investment Advisors, Ltd. (0001701132) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1701132/000170113218000002/0001701132-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001701132-18-000002 &lt;b&gt;Size:&lt;/b&gt; 203 KB
+</summary>
+<updated>2018-04-23T12:32:10-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001701132-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Welch Group, LLC (0001443095) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1443095/000144309518000002/0001443095-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001443095-18-000002 &lt;b&gt;Size:&lt;/b&gt; 77 KB
+</summary>
+<updated>2018-04-23T12:19:23-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001443095-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Taylor Frigon Capital Management LLC (0001632665) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1632665/000163266518000003/0001632665-18-000003-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001632665-18-000003 &lt;b&gt;Size:&lt;/b&gt; 45 KB
+</summary>
+<updated>2018-04-23T12:03:54-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001632665-18-000003</id>
+</entry>
+<entry>
+<title>13F-HR - Capital Advisors, Ltd. LLC (0001597878) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1597878/000159787818000002/0001597878-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001597878-18-000002 &lt;b&gt;Size:&lt;/b&gt; 210 KB
+</summary>
+<updated>2018-04-23T12:02:02-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001597878-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Mountain Capital Investment Advisors, Inc (0001714506) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1714506/000171450618000002/0001714506-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001714506-18-000002 &lt;b&gt;Size:&lt;/b&gt; 18 KB
+</summary>
+<updated>2018-04-23T12:00:52-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001714506-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - St. Louis Trust Co (0001661144) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1661144/000108514618001128/0001085146-18-001128-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001128 &lt;b&gt;Size:&lt;/b&gt; 67 KB
+</summary>
+<updated>2018-04-23T11:55:29-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001128</id>
+</entry>
+<entry>
+<title>13F-HR - Community Financial Services Group, LLC (0001537319) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1537319/000153731918000005/0001537319-18-000005-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001537319-18-000005 &lt;b&gt;Size:&lt;/b&gt; 81 KB
+</summary>
+<updated>2018-04-23T11:51:37-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001537319-18-000005</id>
+</entry>
+<entry>
+<title>13F-HR - Douglas Lane &amp; Associates, LLC (0001672594) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1672594/000167259418000002/0001672594-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001672594-18-000002 &lt;b&gt;Size:&lt;/b&gt; 89 KB
+</summary>
+<updated>2018-04-23T11:46:12-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001672594-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - CAPITAL ONE, NATIONAL ASSOCIATION (0000047288) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/47288/000095012318003721/0000950123-18-003721-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000950123-18-003721 &lt;b&gt;Size:&lt;/b&gt; 448 KB
+</summary>
+<updated>2018-04-23T11:44:53-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0000950123-18-003721</id>
+</entry>
+<entry>
+<title>13F-HR - Horan Capital Advisors, LLC. (0001584086) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1584086/000158408618000002/0001584086-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001584086-18-000002 &lt;b&gt;Size:&lt;/b&gt; 38 KB
+</summary>
+<updated>2018-04-23T11:39:23-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001584086-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Somerset Capital Management LLP (0001616009) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1616009/000161600918000004/0001616009-18-000004-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001616009-18-000004 &lt;b&gt;Size:&lt;/b&gt; 11 KB
+</summary>
+<updated>2018-04-23T11:37:05-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001616009-18-000004</id>
+</entry>
+<entry>
+<title>13F-HR - Beech Hill Advisors, Inc. (0001356202) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1356202/000108514618001126/0001085146-18-001126-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001126 &lt;b&gt;Size:&lt;/b&gt; 33 KB
+</summary>
+<updated>2018-04-23T11:25:29-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001126</id>
+</entry>
+<entry>
+<title>13F-HR - NEW YORK COMMUNITY BANK (0001173497) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1173497/000095012318003716/0000950123-18-003716-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000950123-18-003716 &lt;b&gt;Size:&lt;/b&gt; 4 KB
+</summary>
+<updated>2018-04-23T11:25:02-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0000950123-18-003716</id>
+</entry>
+<entry>
+<title>13F-HR - Clean Yield Group (0001525865) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1525865/000152586518000002/0001525865-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001525865-18-000002 &lt;b&gt;Size:&lt;/b&gt; 68 KB
+</summary>
+<updated>2018-04-23T11:12:20-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001525865-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Adelphi Capital LLP (0001353411) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1353411/000135341118000002/0001353411-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001353411-18-000002 &lt;b&gt;Size:&lt;/b&gt; 4 KB
+</summary>
+<updated>2018-04-23T11:11:06-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001353411-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - PERKINS CAPITAL MANAGEMENT INC (0000884300) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/884300/000088430018000006/0000884300-18-000006-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000884300-18-000006 &lt;b&gt;Size:&lt;/b&gt; 64 KB
+</summary>
+<updated>2018-04-23T11:04:29-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0000884300-18-000006</id>
+</entry>
+<entry>
+<title>13F-HR - Pembroke Management, LTD (0001063497) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1063497/000160658718000323/0001606587-18-000323-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001606587-18-000323 &lt;b&gt;Size:&lt;/b&gt; 30 KB
+</summary>
+<updated>2018-04-23T10:29:37-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001606587-18-000323</id>
+</entry>
+<entry>
+<title>13F-HR - World Asset Management Inc (0001389215) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1389215/000138921518000002/0001389215-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001389215-18-000002 &lt;b&gt;Size:&lt;/b&gt; 586 KB
+</summary>
+<updated>2018-04-23T10:23:53-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001389215-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - MainStreet Investment Advisors LLC (0001729854) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1729854/000139834418005840/0001398344-18-005840-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001398344-18-005840 &lt;b&gt;Size:&lt;/b&gt; 76 KB
+</summary>
+<updated>2018-04-23T10:22:30-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001398344-18-005840</id>
+</entry>
+<entry>
+<title>13F-HR - JAG CAPITAL MANAGEMENT, LLC (0001080374) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1080374/000108037418000003/0001080374-18-000003-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001080374-18-000003 &lt;b&gt;Size:&lt;/b&gt; 63 KB
+</summary>
+<updated>2018-04-23T10:22:09-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001080374-18-000003</id>
+</entry>
+<entry>
+<title>13F-HR - EXCALIBUR MANAGEMENT CORP (0001009003) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1009003/000100900318000002/0001009003-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001009003-18-000002 &lt;b&gt;Size:&lt;/b&gt; 37 KB
+</summary>
+<updated>2018-04-23T10:04:29-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001009003-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Taylor, Cottrill, Erickson &amp; Associates, Inc. (0001667102) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1667102/000166710218000002/0001667102-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001667102-18-000002 &lt;b&gt;Size:&lt;/b&gt; 107 KB
+</summary>
+<updated>2018-04-23T10:01:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001667102-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - BALASA DINVERNO &amp; FOLTZ LLC (0001308757) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1308757/000130875718000004/0001308757-18-000004-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001308757-18-000004 &lt;b&gt;Size:&lt;/b&gt; 122 KB
+</summary>
+<updated>2018-04-23T09:55:05-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001308757-18-000004</id>
+</entry>
+<entry>
+<title>13F-HR - MAD RIVER INVESTORS (0001384484) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1384484/000138448418000005/0001384484-18-000005-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001384484-18-000005 &lt;b&gt;Size:&lt;/b&gt; 19 KB
+</summary>
+<updated>2018-04-23T09:51:40-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001384484-18-000005</id>
+</entry>
+<entry>
+<title>13F-HR - AMERICAN CAPITAL MANAGEMENT INC (0001320168) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1320168/000114420418021711/0001144204-18-021711-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-18-021711 &lt;b&gt;Size:&lt;/b&gt; 37 KB
+</summary>
+<updated>2018-04-23T09:43:20-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001144204-18-021711</id>
+</entry>
+<entry>
+<title>13F-HR - SILVER CAPITAL MANAGEMENT LLC (0001140042) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1140042/000108514618001125/0001085146-18-001125-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001125 &lt;b&gt;Size:&lt;/b&gt; 18 KB
+</summary>
+<updated>2018-04-23T07:52:50-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001125</id>
+</entry>
+<entry>
+<title>13F-HR - ARTHUR M. COHEN &amp; ASSOCIATES, LLC (0001692252) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1692252/000169225218000002/0001692252-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001692252-18-000002 &lt;b&gt;Size:&lt;/b&gt; 60 KB
+</summary>
+<updated>2018-04-20T19:58:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001692252-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Covenant Multifamily Offices, LLC (0001599749) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1599749/000159974918000002/0001599749-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001599749-18-000002 &lt;b&gt;Size:&lt;/b&gt; 28 KB
+</summary>
+<updated>2018-04-20T17:41:24-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001599749-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Bangor Savings Bank (0001352675) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1352675/000135267518000003/0001352675-18-000003-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001352675-18-000003 &lt;b&gt;Size:&lt;/b&gt; 141 KB
+</summary>
+<updated>2018-04-20T17:38:17-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001352675-18-000003</id>
+</entry>
+<entry>
+<title>13F-HR/A - Bangor Savings Bank (0001352675) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1352675/000135267518000002/0001352675-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001352675-18-000002 &lt;b&gt;Size:&lt;/b&gt; 137 KB
+</summary>
+<updated>2018-04-20T17:32:36-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR/A"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001352675-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - DORCHESTER WEALTH MANAGEMENT Co (0001649888) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1649888/000108514618001124/0001085146-18-001124-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001124 &lt;b&gt;Size:&lt;/b&gt; 44 KB
+</summary>
+<updated>2018-04-20T17:21:02-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001124</id>
+</entry>
+<entry>
+<title>13F-HR/A - Fisher Asset Management, LLC (0000850529) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/850529/000085052918000007/0000850529-18-000007-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0000850529-18-000007 &lt;b&gt;Size:&lt;/b&gt; 530 KB
+</summary>
+<updated>2018-04-20T17:12:04-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR/A"/>
+<id>urn:tag:sec.gov,2008:accession-number=0000850529-18-000007</id>
+</entry>
+<entry>
+<title>13F-HR - Meghalaya Partners, L.P. (0001664660) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1664660/000117266118000952/0001172661-18-000952-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001172661-18-000952 &lt;b&gt;Size:&lt;/b&gt; 13 KB
+</summary>
+<updated>2018-04-20T17:04:02-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001172661-18-000952</id>
+</entry>
+<entry>
+<title>13F-HR - Jaffetilchin Investment Partners, LLC (0001404652) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1404652/000106299318001757/0001062993-18-001757-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001062993-18-001757 &lt;b&gt;Size:&lt;/b&gt; 147 KB
+</summary>
+<updated>2018-04-20T16:36:56-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001062993-18-001757</id>
+</entry>
+<entry>
+<title>13F-HR - Ausdal Financial Partners, Inc. (0001667146) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1667146/000160658718000321/0001606587-18-000321-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001606587-18-000321 &lt;b&gt;Size:&lt;/b&gt; 154 KB
+</summary>
+<updated>2018-04-20T16:32:39-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001606587-18-000321</id>
+</entry>
+<entry>
+<title>13F-HR - TRUST CO OF OKLAHOMA (0001083323) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1083323/000108332318000003/0001083323-18-000003-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001083323-18-000003 &lt;b&gt;Size:&lt;/b&gt; 111 KB
+</summary>
+<updated>2018-04-20T16:18:07-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001083323-18-000003</id>
+</entry>
+<entry>
+<title>13F-HR - Biechele Royce Advisors (0001730808) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1730808/000173080818000004/0001730808-18-000004-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001730808-18-000004 &lt;b&gt;Size:&lt;/b&gt; 27 KB
+</summary>
+<updated>2018-04-20T16:12:07-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001730808-18-000004</id>
+</entry>
+<entry>
+<title>13F-HR - COMMUNITY TRUST &amp; INVESTMENT CO (0001047142) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1047142/000104714218000002/0001047142-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001047142-18-000002 &lt;b&gt;Size:&lt;/b&gt; 58 KB
+</summary>
+<updated>2018-04-20T15:57:16-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001047142-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - FIRST QUADRANT L P/CA (0001014736) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1014736/000101473618000005/0001014736-18-000005-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001014736-18-000005 &lt;b&gt;Size:&lt;/b&gt; 467 KB
+</summary>
+<updated>2018-04-20T15:51:26-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001014736-18-000005</id>
+</entry>
+<entry>
+<title>13F-HR - BKD Wealth Advisors, LLC (0001352864) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1352864/000108514618001123/0001085146-18-001123-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001085146-18-001123 &lt;b&gt;Size:&lt;/b&gt; 111 KB
+</summary>
+<updated>2018-04-20T15:46:45-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001085146-18-001123</id>
+</entry>
+<entry>
+<title>13F-HR - Seafarer Capital Partners, LLC (0001697721) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1697721/000169772118000002/0001697721-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001697721-18-000002 &lt;b&gt;Size:&lt;/b&gt; 4 KB
+</summary>
+<updated>2018-04-20T15:42:28-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001697721-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Radnor Capital Management, LLC (0001696867) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1696867/000151240418000004/0001512404-18-000004-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001512404-18-000004 &lt;b&gt;Size:&lt;/b&gt; 95 KB
+</summary>
+<updated>2018-04-20T15:41:47-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001512404-18-000004</id>
+</entry>
+<entry>
+<title>13F-HR - PATTEN &amp; PATTEN INC/TN (0001044905) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1044905/000104490518000002/0001044905-18-000002-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001044905-18-000002 &lt;b&gt;Size:&lt;/b&gt; 101 KB
+</summary>
+<updated>2018-04-20T15:30:54-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001044905-18-000002</id>
+</entry>
+<entry>
+<title>13F-HR - Gateway Advisory, LLC (0001512404) (Filer)</title>
+<link rel="alternate" type="text/html" href="http://www.sec.gov/Archives/edgar/data/1512404/000151240418000003/0001512404-18-000003-index.htm"/>
+<summary type="html">
+ &lt;b&gt;Filed:&lt;/b&gt; 2018-04-20 &lt;b&gt;AccNo:&lt;/b&gt; 0001512404-18-000003 &lt;b&gt;Size:&lt;/b&gt; 41 KB
+</summary>
+<updated>2018-04-20T15:26:15-04:00</updated>
+<category scheme="http://www.sec.gov/" label="form type" term="13F-HR"/>
+<id>urn:tag:sec.gov,2008:accession-number=0001512404-18-000003</id>
+</entry>
 </feed>
